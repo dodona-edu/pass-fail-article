@@ -1,0 +1,325 @@
+prediction,acc_failed,acc_passed,bal_acc,f1,recall,tn,fp,fn,tp
+fea_extractor_svm_bal_acc_train1617_1718_test1819 series_00,0.533,0.67,0.601,0.496,0.533,57,50,66,134
+fea_extractor_svm_bal_acc_train1617_1718_test1819 series_01,0.645,0.57,0.607,0.527,0.645,69,38,86,114
+fea_extractor_svm_bal_acc_train1617_1718_test1819 series_02,0.579,0.67,0.625,0.528,0.579,62,45,66,134
+fea_extractor_svm_bal_acc_train1617_1718_test1819 series_03,0.579,0.67,0.625,0.528,0.579,62,45,66,134
+fea_extractor_svm_bal_acc_train1617_1718_test1819 series_04,0.636,0.655,0.645,0.557,0.636,68,39,69,131
+fea_extractor_svm_bal_acc_train1617_1718_test1819 series_05,0.785,0.645,0.715,0.641,0.785,84,23,71,129
+fea_extractor_svm_bal_acc_train1617_1718_test1819 series_06,0.738,0.7,0.719,0.642,0.738,79,28,60,140
+fea_extractor_svm_bal_acc_train1617_1718_test1819 series_07,0.813,0.695,0.754,0.682,0.813,87,20,61,139
+fea_extractor_svm_bal_acc_train1617_1718_test1819 series_08,0.785,0.735,0.76,0.689,0.785,84,23,53,147
+fea_extractor_svm_bal_acc_train1617_1718_test1819 series_09,0.776,0.705,0.74,0.667,0.776,83,24,59,141
+fea_extractor_svm_bal_acc_train1617_1718_test1819 series_10,0.794,0.72,0.757,0.685,0.794,85,22,56,144
+fea_extractor_svm_bal_acc_train1617_1718_test1819 series_11,0.794,0.615,0.705,0.632,0.794,85,22,77,123
+fea_extractor_svm_bal_acc_train1617_1819_test1718 series_00,0.351,0.833,0.592,0.451,0.351,39,72,23,115
+fea_extractor_svm_bal_acc_train1617_1819_test1718 series_01,0.324,0.746,0.535,0.396,0.324,36,75,35,103
+fea_extractor_svm_bal_acc_train1617_1819_test1718 series_02,0.423,0.761,0.592,0.492,0.423,47,64,33,105
+fea_extractor_svm_bal_acc_train1617_1819_test1718 series_03,0.523,0.79,0.656,0.586,0.523,58,53,29,109
+fea_extractor_svm_bal_acc_train1617_1819_test1718 series_04,0.568,0.732,0.65,0.597,0.568,63,48,37,101
+fea_extractor_svm_bal_acc_train1617_1819_test1718 series_05,0.703,0.775,0.739,0.709,0.703,78,33,31,107
+fea_extractor_svm_bal_acc_train1617_1819_test1718 series_06,0.703,0.804,0.754,0.722,0.703,78,33,27,111
+fea_extractor_svm_bal_acc_train1617_1819_test1718 series_07,0.622,0.891,0.756,0.708,0.622,69,42,15,123
+fea_extractor_svm_bal_acc_train1617_1819_test1718 series_08,0.703,0.862,0.783,0.75,0.703,78,33,19,119
+fea_extractor_svm_bal_acc_train1617_1819_test1718 series_09,0.721,0.855,0.788,0.758,0.721,80,31,20,118
+fea_extractor_svm_bal_acc_train1617_1819_test1718 series_10,0.676,0.877,0.776,0.739,0.676,75,36,17,121
+fea_extractor_svm_bal_acc_train1617_1819_test1718 series_11,0.694,0.899,0.796,0.762,0.694,77,34,14,124
+fea_extractor_svm_bal_acc_train1718_1819_test1617 series_00,0.517,0.713,0.615,0.561,0.517,78,73,49,122
+fea_extractor_svm_bal_acc_train1718_1819_test1617 series_01,0.377,0.854,0.616,0.489,0.377,57,94,25,146
+fea_extractor_svm_bal_acc_train1718_1819_test1617 series_02,0.47,0.807,0.639,0.557,0.47,71,80,33,138
+fea_extractor_svm_bal_acc_train1718_1819_test1617 series_03,0.609,0.772,0.691,0.652,0.609,92,59,39,132
+fea_extractor_svm_bal_acc_train1718_1819_test1617 series_04,0.57,0.76,0.665,0.619,0.57,86,65,41,130
+fea_extractor_svm_bal_acc_train1718_1819_test1617 series_05,0.682,0.865,0.774,0.744,0.682,103,48,23,148
+fea_extractor_svm_bal_acc_train1718_1819_test1617 series_06,0.662,0.871,0.767,0.733,0.662,100,51,22,149
+fea_extractor_svm_bal_acc_train1718_1819_test1617 series_07,0.735,0.842,0.789,0.768,0.735,111,40,27,144
+fea_extractor_svm_bal_acc_train1718_1819_test1617 series_08,0.728,0.906,0.817,0.794,0.728,110,41,16,155
+fea_extractor_svm_bal_acc_train1718_1819_test1617 series_09,0.755,0.895,0.825,0.806,0.755,114,37,18,153
+fea_extractor_svm_bal_acc_train1718_1819_test1617 series_10,0.755,0.906,0.831,0.811,0.755,114,37,16,155
+fea_extractor_svm_bal_acc_train1718_1819_test1617 series_11,0.762,0.93,0.846,0.827,0.762,115,36,12,159
+fea_extractor_svm_bal_acc_train1617_test1718 series_00,0.505,0.688,0.596,0.533,0.505,56,55,43,95
+fea_extractor_svm_bal_acc_train1617_test1718 series_01,0.613,0.594,0.603,0.579,0.613,68,43,56,82
+fea_extractor_svm_bal_acc_train1617_test1718 series_02,0.505,0.645,0.575,0.519,0.505,56,55,49,89
+fea_extractor_svm_bal_acc_train1617_test1718 series_03,0.649,0.659,0.654,0.626,0.649,72,39,47,91
+fea_extractor_svm_bal_acc_train1617_test1718 series_04,0.613,0.71,0.661,0.621,0.613,68,43,40,98
+fea_extractor_svm_bal_acc_train1617_test1718 series_05,0.73,0.783,0.756,0.73,0.73,81,30,30,108
+fea_extractor_svm_bal_acc_train1617_test1718 series_06,0.775,0.761,0.768,0.748,0.775,86,25,33,105
+fea_extractor_svm_bal_acc_train1617_test1718 series_07,0.757,0.739,0.748,0.727,0.757,84,27,36,102
+fea_extractor_svm_bal_acc_train1617_test1718 series_08,0.775,0.79,0.782,0.761,0.775,86,25,29,109
+fea_extractor_svm_bal_acc_train1617_test1718 series_09,0.811,0.768,0.789,0.773,0.811,90,21,32,106
+fea_extractor_svm_bal_acc_train1617_test1718 series_10,0.784,0.783,0.783,0.763,0.784,87,24,30,108
+fea_extractor_svm_bal_acc_train1617_test1718 series_11,0.82,0.841,0.83,0.812,0.82,91,20,22,116
+fea_extractor_svm_bal_acc_train1617_test1819 series_00,0.523,0.635,0.579,0.475,0.523,56,51,73,127
+fea_extractor_svm_bal_acc_train1617_test1819 series_01,0.682,0.505,0.594,0.523,0.682,73,34,99,101
+fea_extractor_svm_bal_acc_train1617_test1819 series_02,0.617,0.635,0.626,0.537,0.617,66,41,73,127
+fea_extractor_svm_bal_acc_train1617_test1819 series_03,0.598,0.63,0.614,0.522,0.598,64,43,74,126
+fea_extractor_svm_bal_acc_train1617_test1819 series_04,0.664,0.69,0.677,0.592,0.664,71,36,62,138
+fea_extractor_svm_bal_acc_train1617_test1819 series_05,0.757,0.67,0.714,0.638,0.757,81,26,66,134
+fea_extractor_svm_bal_acc_train1617_test1819 series_06,0.748,0.655,0.701,0.625,0.748,80,27,69,131
+fea_extractor_svm_bal_acc_train1617_test1819 series_07,0.822,0.695,0.759,0.688,0.822,88,19,61,139
+fea_extractor_svm_bal_acc_train1617_test1819 series_08,0.822,0.705,0.764,0.693,0.822,88,19,59,141
+fea_extractor_svm_bal_acc_train1617_test1819 series_09,0.813,0.66,0.737,0.664,0.813,87,20,68,132
+fea_extractor_svm_bal_acc_train1617_test1819 series_10,0.785,0.7,0.743,0.669,0.785,84,23,60,140
+fea_extractor_svm_bal_acc_train1617_test1819 series_11,0.841,0.63,0.736,0.664,0.841,90,17,74,126
+fea_extractor_svm_bal_acc_train1718_test1617 series_00,0.517,0.69,0.603,0.553,0.517,78,73,53,118
+fea_extractor_svm_bal_acc_train1718_test1617 series_01,0.49,0.743,0.616,0.55,0.49,74,77,44,127
+fea_extractor_svm_bal_acc_train1718_test1617 series_02,0.523,0.62,0.572,0.536,0.523,79,72,65,106
+fea_extractor_svm_bal_acc_train1718_test1617 series_03,0.656,0.754,0.705,0.678,0.656,99,52,42,129
+fea_extractor_svm_bal_acc_train1718_test1617 series_04,0.649,0.725,0.687,0.662,0.649,98,53,47,124
+fea_extractor_svm_bal_acc_train1718_test1617 series_05,0.715,0.772,0.744,0.725,0.715,108,43,39,132
+fea_extractor_svm_bal_acc_train1718_test1617 series_06,0.728,0.801,0.765,0.746,0.728,110,41,34,137
+fea_extractor_svm_bal_acc_train1718_test1617 series_07,0.689,0.789,0.739,0.715,0.689,104,47,36,135
+fea_extractor_svm_bal_acc_train1718_test1617 series_08,0.709,0.766,0.737,0.718,0.709,107,44,40,131
+fea_extractor_svm_bal_acc_train1718_test1617 series_09,0.742,0.807,0.774,0.757,0.742,112,39,33,138
+fea_extractor_svm_bal_acc_train1718_test1617 series_10,0.682,0.842,0.762,0.733,0.682,103,48,27,144
+fea_extractor_svm_bal_acc_train1718_test1617 series_11,0.742,0.906,0.824,0.803,0.742,112,39,16,155
+fea_extractor_svm_bal_acc_train1718_test1819 series_00,0.673,0.595,0.634,0.554,0.673,72,35,81,119
+fea_extractor_svm_bal_acc_train1718_test1819 series_01,0.617,0.59,0.603,0.518,0.617,66,41,82,118
+fea_extractor_svm_bal_acc_train1718_test1819 series_02,0.551,0.67,0.611,0.509,0.551,59,48,66,134
+fea_extractor_svm_bal_acc_train1718_test1819 series_03,0.523,0.655,0.589,0.483,0.523,56,51,69,131
+fea_extractor_svm_bal_acc_train1718_test1819 series_04,0.57,0.695,0.633,0.533,0.57,61,46,61,139
+fea_extractor_svm_bal_acc_train1718_test1819 series_05,0.682,0.62,0.651,0.57,0.682,73,34,76,124
+fea_extractor_svm_bal_acc_train1718_test1819 series_06,0.692,0.615,0.653,0.574,0.692,74,33,77,123
+fea_extractor_svm_bal_acc_train1718_test1819 series_07,0.636,0.575,0.605,0.523,0.636,68,39,85,115
+fea_extractor_svm_bal_acc_train1718_test1819 series_08,0.701,0.685,0.693,0.612,0.701,75,32,63,137
+fea_extractor_svm_bal_acc_train1718_test1819 series_09,0.682,0.665,0.674,0.591,0.682,73,34,67,133
+fea_extractor_svm_bal_acc_train1718_test1819 series_10,0.636,0.64,0.638,0.551,0.636,68,39,72,128
+fea_extractor_svm_bal_acc_train1718_test1819 series_11,0.692,0.65,0.671,0.59,0.692,74,33,70,130
+fea_extractor_svm_bal_acc_train1819_test1617 series_00,0.477,0.76,0.619,0.545,0.477,72,79,41,130
+fea_extractor_svm_bal_acc_train1819_test1617 series_01,0.278,0.807,0.543,0.372,0.278,42,109,33,138
+fea_extractor_svm_bal_acc_train1819_test1617 series_02,0.391,0.825,0.608,0.492,0.391,59,92,30,141
+fea_extractor_svm_bal_acc_train1819_test1617 series_03,0.55,0.842,0.696,0.636,0.55,83,68,27,144
+fea_extractor_svm_bal_acc_train1819_test1617 series_04,0.57,0.819,0.694,0.642,0.57,86,65,31,140
+fea_extractor_svm_bal_acc_train1819_test1617 series_05,0.629,0.889,0.759,0.717,0.629,95,56,19,152
+fea_extractor_svm_bal_acc_train1819_test1617 series_06,0.656,0.877,0.766,0.731,0.656,99,52,21,150
+fea_extractor_svm_bal_acc_train1819_test1617 series_07,0.629,0.912,0.771,0.728,0.629,95,56,15,156
+fea_extractor_svm_bal_acc_train1819_test1617 series_08,0.669,0.918,0.794,0.759,0.669,101,50,14,157
+fea_extractor_svm_bal_acc_train1819_test1617 series_09,0.675,0.906,0.791,0.758,0.675,102,49,16,155
+fea_extractor_svm_bal_acc_train1819_test1617 series_10,0.675,0.924,0.8,0.767,0.675,102,49,13,158
+fea_extractor_svm_bal_acc_train1819_test1617 series_11,0.702,0.942,0.822,0.794,0.702,106,45,10,161
+fea_extractor_svm_bal_acc_train1819_test1718 series_00,0.315,0.848,0.582,0.419,0.315,35,76,21,117
+fea_extractor_svm_bal_acc_train1819_test1718 series_01,0.27,0.804,0.537,0.357,0.27,30,81,27,111
+fea_extractor_svm_bal_acc_train1819_test1718 series_02,0.306,0.761,0.534,0.382,0.306,34,77,33,105
+fea_extractor_svm_bal_acc_train1819_test1718 series_03,0.468,0.826,0.647,0.556,0.468,52,59,24,114
+fea_extractor_svm_bal_acc_train1819_test1718 series_04,0.486,0.812,0.649,0.565,0.486,54,57,26,112
+fea_extractor_svm_bal_acc_train1819_test1718 series_05,0.586,0.833,0.709,0.653,0.586,65,46,23,115
+fea_extractor_svm_bal_acc_train1819_test1718 series_06,0.568,0.833,0.7,0.64,0.568,63,48,23,115
+fea_extractor_svm_bal_acc_train1819_test1718 series_07,0.586,0.862,0.724,0.667,0.586,65,46,19,119
+fea_extractor_svm_bal_acc_train1819_test1718 series_08,0.559,0.899,0.729,0.663,0.559,62,49,14,124
+fea_extractor_svm_bal_acc_train1819_test1718 series_09,0.55,0.877,0.713,0.646,0.55,61,50,17,121
+fea_extractor_svm_bal_acc_train1819_test1718 series_10,0.532,0.855,0.693,0.621,0.532,59,52,20,118
+fea_extractor_svm_bal_acc_train1819_test1718 series_11,0.595,0.884,0.739,0.684,0.595,66,45,16,122
+fea_extractor_svm_bal_acc_all1617 series_01 part1,0.567,0.771,0.669,0.618,0.567,17,13,8,27
+fea_extractor_svm_bal_acc_all1617 series_01 part2,0.613,0.676,0.645,0.623,0.613,19,12,11,23
+fea_extractor_svm_bal_acc_all1617 series_01 part3,0.667,0.706,0.686,0.667,0.667,20,10,10,24
+fea_extractor_svm_bal_acc_all1617 series_01 part4,0.7,0.559,0.629,0.636,0.7,21,9,15,19
+fea_extractor_svm_bal_acc_all1617 series_01 part5,0.633,0.794,0.714,0.679,0.633,19,11,7,27
+fea_extractor_svm_bal_acc_all1617 series_01 MEAN,0.636,0.701,0.669,0.645,0.636,19.2,11.0,10.2,24.0
+fea_extractor_svm_bal_acc_all1617 series_02 part1,0.7,0.686,0.693,0.677,0.7,21,9,11,24
+fea_extractor_svm_bal_acc_all1617 series_02 part2,0.839,0.618,0.728,0.743,0.839,26,5,13,21
+fea_extractor_svm_bal_acc_all1617 series_02 part3,0.633,0.794,0.714,0.679,0.633,19,11,7,27
+fea_extractor_svm_bal_acc_all1617 series_02 part4,0.667,0.735,0.701,0.678,0.667,20,10,9,25
+fea_extractor_svm_bal_acc_all1617 series_02 part5,0.667,0.706,0.686,0.667,0.667,20,10,10,24
+fea_extractor_svm_bal_acc_all1617 series_02 MEAN,0.701,0.708,0.704,0.689,0.701,21.2,9.0,10.0,24.2
+fea_extractor_svm_bal_acc_all1617 series_03 part1,0.667,0.8,0.733,0.702,0.667,20,10,7,28
+fea_extractor_svm_bal_acc_all1617 series_03 part2,0.516,0.706,0.611,0.561,0.516,16,15,10,24
+fea_extractor_svm_bal_acc_all1617 series_03 part3,0.6,0.676,0.638,0.61,0.6,18,12,11,23
+fea_extractor_svm_bal_acc_all1617 series_03 part4,0.633,0.676,0.655,0.633,0.633,19,11,11,23
+fea_extractor_svm_bal_acc_all1617 series_03 part5,0.733,0.676,0.705,0.698,0.733,22,8,11,23
+fea_extractor_svm_bal_acc_all1617 series_03 MEAN,0.63,0.707,0.668,0.641,0.63,19.0,11.2,10.0,24.2
+fea_extractor_svm_bal_acc_all1617 series_04 part1,0.633,0.6,0.617,0.603,0.633,19,11,14,21
+fea_extractor_svm_bal_acc_all1617 series_04 part2,0.677,0.794,0.736,0.712,0.677,21,10,7,27
+fea_extractor_svm_bal_acc_all1617 series_04 part3,0.633,0.794,0.714,0.679,0.633,19,11,7,27
+fea_extractor_svm_bal_acc_all1617 series_04 part4,0.733,0.647,0.69,0.688,0.733,22,8,12,22
+fea_extractor_svm_bal_acc_all1617 series_04 part5,0.767,0.647,0.707,0.708,0.767,23,7,12,22
+fea_extractor_svm_bal_acc_all1617 series_04 MEAN,0.689,0.696,0.693,0.678,0.689,20.8,9.4,10.4,23.8
+fea_extractor_svm_bal_acc_all1617 series_05 part1,0.7,0.8,0.75,0.724,0.7,21,9,7,28
+fea_extractor_svm_bal_acc_all1617 series_05 part2,0.71,0.853,0.781,0.759,0.71,22,9,5,29
+fea_extractor_svm_bal_acc_all1617 series_05 part3,0.667,0.765,0.716,0.69,0.667,20,10,8,26
+fea_extractor_svm_bal_acc_all1617 series_05 part4,0.833,0.618,0.725,0.735,0.833,25,5,13,21
+fea_extractor_svm_bal_acc_all1617 series_05 part5,0.667,0.676,0.672,0.656,0.667,20,10,11,23
+fea_extractor_svm_bal_acc_all1617 series_05 MEAN,0.715,0.742,0.729,0.713,0.715,21.6,8.6,8.8,25.4
+fea_extractor_svm_bal_acc_all1617 series_06 part1,0.767,0.914,0.84,0.821,0.767,23,7,3,32
+fea_extractor_svm_bal_acc_all1617 series_06 part2,0.645,0.765,0.705,0.678,0.645,20,11,8,26
+fea_extractor_svm_bal_acc_all1617 series_06 part3,0.7,0.765,0.732,0.712,0.7,21,9,8,26
+fea_extractor_svm_bal_acc_all1617 series_06 part4,0.8,0.853,0.826,0.814,0.8,24,6,5,29
+fea_extractor_svm_bal_acc_all1617 series_06 part5,0.767,0.735,0.751,0.742,0.767,23,7,9,25
+fea_extractor_svm_bal_acc_all1617 series_06 MEAN,0.736,0.806,0.771,0.753,0.736,22.2,8.0,6.6,27.6
+fea_extractor_svm_bal_acc_all1617 series_07 part1,0.633,0.686,0.66,0.633,0.633,19,11,11,24
+fea_extractor_svm_bal_acc_all1617 series_07 part2,0.774,0.676,0.725,0.727,0.774,24,7,11,23
+fea_extractor_svm_bal_acc_all1617 series_07 part3,0.667,0.765,0.716,0.69,0.667,20,10,8,26
+fea_extractor_svm_bal_acc_all1617 series_07 part4,0.8,0.912,0.856,0.842,0.8,24,6,3,31
+fea_extractor_svm_bal_acc_all1617 series_07 part5,0.667,0.735,0.701,0.678,0.667,20,10,9,25
+fea_extractor_svm_bal_acc_all1617 series_07 MEAN,0.708,0.755,0.731,0.714,0.708,21.4,8.8,8.4,25.8
+fea_extractor_svm_bal_acc_all1617 series_08 part1,0.742,0.765,0.753,0.742,0.742,23,8,8,26
+fea_extractor_svm_bal_acc_all1617 series_08 part2,0.667,0.8,0.733,0.702,0.667,20,10,7,28
+fea_extractor_svm_bal_acc_all1617 series_08 part3,0.867,0.765,0.816,0.812,0.867,26,4,8,26
+fea_extractor_svm_bal_acc_all1617 series_08 part4,0.767,0.853,0.81,0.793,0.767,23,7,5,29
+fea_extractor_svm_bal_acc_all1617 series_08 part5,0.833,0.824,0.828,0.82,0.833,25,5,6,28
+fea_extractor_svm_bal_acc_all1617 series_08 MEAN,0.775,0.801,0.788,0.774,0.775,23.4,6.8,6.8,27.4
+fea_extractor_svm_bal_acc_all1617 series_09 part1,0.733,0.914,0.824,0.8,0.733,22,8,3,32
+fea_extractor_svm_bal_acc_all1617 series_09 part2,0.677,0.706,0.692,0.677,0.677,21,10,10,24
+fea_extractor_svm_bal_acc_all1617 series_09 part3,0.8,0.794,0.797,0.787,0.8,24,6,7,27
+fea_extractor_svm_bal_acc_all1617 series_09 part4,0.733,0.765,0.749,0.733,0.733,22,8,8,26
+fea_extractor_svm_bal_acc_all1617 series_09 part5,0.833,0.824,0.828,0.82,0.833,25,5,6,28
+fea_extractor_svm_bal_acc_all1617 series_09 MEAN,0.755,0.801,0.778,0.763,0.755,22.8,7.4,6.8,27.4
+fea_extractor_svm_bal_acc_all1617 series_10 part1,0.667,0.714,0.69,0.667,0.667,20,10,10,25
+fea_extractor_svm_bal_acc_all1617 series_10 part2,0.806,0.794,0.8,0.794,0.806,25,6,7,27
+fea_extractor_svm_bal_acc_all1617 series_10 part3,0.733,0.706,0.72,0.71,0.733,22,8,10,24
+fea_extractor_svm_bal_acc_all1617 series_10 part4,0.733,0.676,0.705,0.698,0.733,22,8,11,23
+fea_extractor_svm_bal_acc_all1617 series_10 part5,0.6,0.824,0.712,0.667,0.6,18,12,6,28
+fea_extractor_svm_bal_acc_all1617 series_10 MEAN,0.708,0.743,0.725,0.707,0.708,21.4,8.8,8.8,25.4
+fea_extractor_svm_bal_acc_all1617 series_11 part1,0.733,0.886,0.81,0.786,0.733,22,8,4,31
+fea_extractor_svm_bal_acc_all1617 series_11 part2,0.71,0.765,0.737,0.721,0.71,22,9,8,26
+fea_extractor_svm_bal_acc_all1617 series_11 part3,0.667,0.824,0.745,0.714,0.667,20,10,6,28
+fea_extractor_svm_bal_acc_all1617 series_11 part4,0.867,0.735,0.801,0.8,0.867,26,4,9,25
+fea_extractor_svm_bal_acc_all1617 series_11 part5,0.833,0.706,0.77,0.769,0.833,25,5,10,24
+fea_extractor_svm_bal_acc_all1617 series_11 MEAN,0.762,0.783,0.772,0.758,0.762,23.0,7.2,7.4,26.8
+fea_extractor_svm_bal_acc_all1617 series_12 part1,0.8,0.8,0.8,0.787,0.8,24,6,7,28
+fea_extractor_svm_bal_acc_all1617 series_12 part2,0.677,0.824,0.75,0.724,0.677,21,10,6,28
+fea_extractor_svm_bal_acc_all1617 series_12 part3,0.8,0.765,0.782,0.774,0.8,24,6,8,26
+fea_extractor_svm_bal_acc_all1617 series_12 part4,0.833,0.853,0.843,0.833,0.833,25,5,5,29
+fea_extractor_svm_bal_acc_all1617 series_12 part5,0.733,0.853,0.793,0.772,0.733,22,8,5,29
+fea_extractor_svm_bal_acc_all1617 series_12 MEAN,0.769,0.819,0.794,0.778,0.769,23.2,7.0,6.2,28.0
+fea_extractor_svm_bal_acc_all1718 series_01 part1,0.739,0.481,0.61,0.63,0.739,17,6,14,13
+fea_extractor_svm_bal_acc_all1718 series_01 part2,0.591,0.571,0.581,0.553,0.591,13,9,12,16
+fea_extractor_svm_bal_acc_all1718 series_01 part3,0.318,0.679,0.498,0.368,0.318,7,15,9,19
+fea_extractor_svm_bal_acc_all1718 series_01 part4,0.455,0.679,0.567,0.488,0.455,10,12,9,19
+fea_extractor_svm_bal_acc_all1718 series_01 part5,0.5,0.593,0.546,0.5,0.5,11,11,11,16
+fea_extractor_svm_bal_acc_all1718 series_01 MEAN,0.521,0.601,0.561,0.508,0.521,11.6,10.6,11.0,16.6
+fea_extractor_svm_bal_acc_all1718 series_02 part1,0.591,0.536,0.563,0.542,0.591,13,9,13,15
+fea_extractor_svm_bal_acc_all1718 series_02 part2,0.227,0.714,0.471,0.286,0.227,5,17,8,20
+fea_extractor_svm_bal_acc_all1718 series_02 part3,0.318,0.75,0.534,0.389,0.318,7,15,7,21
+fea_extractor_svm_bal_acc_all1718 series_02 part4,0.522,0.667,0.594,0.545,0.522,12,11,9,18
+fea_extractor_svm_bal_acc_all1718 series_02 part5,0.5,0.593,0.546,0.5,0.5,11,11,11,16
+fea_extractor_svm_bal_acc_all1718 series_02 MEAN,0.432,0.652,0.542,0.452,0.432,9.6,12.6,9.6,18.0
+fea_extractor_svm_bal_acc_all1718 series_03 part1,0.636,0.714,0.675,0.636,0.636,14,8,8,20
+fea_extractor_svm_bal_acc_all1718 series_03 part2,0.5,0.571,0.536,0.489,0.5,11,11,12,16
+fea_extractor_svm_bal_acc_all1718 series_03 part3,0.545,0.714,0.63,0.571,0.545,12,10,8,20
+fea_extractor_svm_bal_acc_all1718 series_03 part4,0.522,0.481,0.502,0.49,0.522,12,11,14,13
+fea_extractor_svm_bal_acc_all1718 series_03 part5,0.409,0.556,0.482,0.419,0.409,9,13,12,15
+fea_extractor_svm_bal_acc_all1718 series_03 MEAN,0.523,0.607,0.565,0.521,0.523,11.6,10.6,10.8,16.8
+fea_extractor_svm_bal_acc_all1718 series_04 part1,0.636,0.643,0.64,0.609,0.636,14,8,10,18
+fea_extractor_svm_bal_acc_all1718 series_04 part2,0.636,0.607,0.622,0.596,0.636,14,8,11,17
+fea_extractor_svm_bal_acc_all1718 series_04 part3,0.545,0.643,0.594,0.545,0.545,12,10,10,18
+fea_extractor_svm_bal_acc_all1718 series_04 part4,0.522,0.741,0.631,0.571,0.522,12,11,7,20
+fea_extractor_svm_bal_acc_all1718 series_04 part5,0.409,0.704,0.556,0.462,0.409,9,13,8,19
+fea_extractor_svm_bal_acc_all1718 series_04 MEAN,0.55,0.667,0.609,0.557,0.55,12.2,10.0,9.2,18.4
+fea_extractor_svm_bal_acc_all1718 series_05 part1,0.591,0.714,0.653,0.605,0.591,13,9,8,20
+fea_extractor_svm_bal_acc_all1718 series_05 part2,0.5,0.786,0.643,0.564,0.5,11,11,6,22
+fea_extractor_svm_bal_acc_all1718 series_05 part3,0.409,0.786,0.597,0.486,0.409,9,13,6,22
+fea_extractor_svm_bal_acc_all1718 series_05 part4,0.609,0.667,0.638,0.609,0.609,14,9,9,18
+fea_extractor_svm_bal_acc_all1718 series_05 part5,0.727,0.704,0.715,0.696,0.727,16,6,8,19
+fea_extractor_svm_bal_acc_all1718 series_05 MEAN,0.567,0.731,0.649,0.592,0.567,12.6,9.6,7.4,20.2
+fea_extractor_svm_bal_acc_all1718 series_06 part1,0.773,0.786,0.779,0.756,0.773,17,5,6,22
+fea_extractor_svm_bal_acc_all1718 series_06 part2,0.636,0.643,0.64,0.609,0.636,14,8,10,18
+fea_extractor_svm_bal_acc_all1718 series_06 part3,0.864,0.75,0.807,0.792,0.864,19,3,7,21
+fea_extractor_svm_bal_acc_all1718 series_06 part4,0.609,0.815,0.712,0.667,0.609,14,9,5,22
+fea_extractor_svm_bal_acc_all1718 series_06 part5,0.682,0.741,0.711,0.682,0.682,15,7,7,20
+fea_extractor_svm_bal_acc_all1718 series_06 MEAN,0.713,0.747,0.73,0.701,0.713,15.8,6.4,7.0,20.6
+fea_extractor_svm_bal_acc_all1718 series_07 part1,0.696,0.667,0.681,0.667,0.696,16,7,9,18
+fea_extractor_svm_bal_acc_all1718 series_07 part2,0.636,0.786,0.711,0.667,0.636,14,8,6,22
+fea_extractor_svm_bal_acc_all1718 series_07 part3,0.591,0.821,0.706,0.65,0.591,13,9,5,23
+fea_extractor_svm_bal_acc_all1718 series_07 part4,0.818,0.786,0.802,0.783,0.818,18,4,6,22
+fea_extractor_svm_bal_acc_all1718 series_07 part5,0.545,0.815,0.68,0.615,0.545,12,10,5,22
+fea_extractor_svm_bal_acc_all1718 series_07 MEAN,0.657,0.775,0.716,0.676,0.657,14.6,7.6,6.2,21.4
+fea_extractor_svm_bal_acc_all1718 series_08 part1,0.5,0.857,0.679,0.595,0.5,11,11,4,24
+fea_extractor_svm_bal_acc_all1718 series_08 part2,0.636,0.75,0.693,0.651,0.636,14,8,7,21
+fea_extractor_svm_bal_acc_all1718 series_08 part3,0.773,0.821,0.797,0.773,0.773,17,5,5,23
+fea_extractor_svm_bal_acc_all1718 series_08 part4,0.609,0.741,0.675,0.636,0.609,14,9,7,20
+fea_extractor_svm_bal_acc_all1718 series_08 part5,0.727,0.778,0.753,0.727,0.727,16,6,6,21
+fea_extractor_svm_bal_acc_all1718 series_08 MEAN,0.649,0.789,0.719,0.676,0.649,14.4,7.8,5.8,21.8
+fea_extractor_svm_bal_acc_all1718 series_09 part1,0.864,0.75,0.807,0.792,0.864,19,3,7,21
+fea_extractor_svm_bal_acc_all1718 series_09 part2,0.727,0.643,0.685,0.667,0.727,16,6,10,18
+fea_extractor_svm_bal_acc_all1718 series_09 part3,0.591,0.786,0.688,0.634,0.591,13,9,6,22
+fea_extractor_svm_bal_acc_all1718 series_09 part4,0.739,0.741,0.74,0.723,0.739,17,6,7,20
+fea_extractor_svm_bal_acc_all1718 series_09 part5,0.727,0.815,0.771,0.744,0.727,16,6,5,22
+fea_extractor_svm_bal_acc_all1718 series_09 MEAN,0.73,0.747,0.738,0.712,0.73,16.2,6.0,7.0,20.6
+fea_extractor_svm_bal_acc_all1718 series_10 part1,0.727,0.75,0.739,0.711,0.727,16,6,7,21
+fea_extractor_svm_bal_acc_all1718 series_10 part2,0.818,0.714,0.766,0.75,0.818,18,4,8,20
+fea_extractor_svm_bal_acc_all1718 series_10 part3,0.727,0.857,0.792,0.762,0.727,16,6,4,24
+fea_extractor_svm_bal_acc_all1718 series_10 part4,0.565,0.926,0.746,0.684,0.565,13,10,2,25
+fea_extractor_svm_bal_acc_all1718 series_10 part5,0.727,0.704,0.715,0.696,0.727,16,6,8,19
+fea_extractor_svm_bal_acc_all1718 series_10 MEAN,0.713,0.79,0.752,0.721,0.713,15.8,6.4,5.8,21.8
+fea_extractor_svm_bal_acc_all1718 series_11 part1,0.682,0.75,0.716,0.682,0.682,15,7,7,21
+fea_extractor_svm_bal_acc_all1718 series_11 part2,0.682,0.786,0.734,0.698,0.682,15,7,6,22
+fea_extractor_svm_bal_acc_all1718 series_11 part3,0.818,0.786,0.802,0.783,0.818,18,4,6,22
+fea_extractor_svm_bal_acc_all1718 series_11 part4,0.826,0.778,0.802,0.792,0.826,19,4,6,21
+fea_extractor_svm_bal_acc_all1718 series_11 part5,0.591,0.778,0.684,0.634,0.591,13,9,6,21
+fea_extractor_svm_bal_acc_all1718 series_11 MEAN,0.72,0.775,0.748,0.718,0.72,16.0,6.2,6.2,21.4
+fea_extractor_svm_bal_acc_all1718 series_12 part1,0.652,0.815,0.733,0.698,0.652,15,8,5,22
+fea_extractor_svm_bal_acc_all1718 series_12 part2,0.773,0.857,0.815,0.791,0.773,17,5,4,24
+fea_extractor_svm_bal_acc_all1718 series_12 part3,0.727,0.893,0.81,0.78,0.727,16,6,3,25
+fea_extractor_svm_bal_acc_all1718 series_12 part4,0.636,0.786,0.711,0.667,0.636,14,8,6,22
+fea_extractor_svm_bal_acc_all1718 series_12 part5,0.955,0.815,0.885,0.875,0.955,21,1,5,22
+fea_extractor_svm_bal_acc_all1718 series_12 MEAN,0.749,0.833,0.791,0.762,0.749,16.6,5.6,4.6,23.0
+fea_extractor_svm_bal_acc_all1819 series_01 part1,0.455,0.8,0.627,0.5,0.455,10,12,8,32
+fea_extractor_svm_bal_acc_all1819 series_01 part2,0.227,0.75,0.489,0.27,0.227,5,17,10,30
+fea_extractor_svm_bal_acc_all1819 series_01 part3,0.238,0.925,0.582,0.345,0.238,5,16,3,37
+fea_extractor_svm_bal_acc_all1819 series_01 part4,0.19,0.875,0.533,0.267,0.19,4,17,5,35
+fea_extractor_svm_bal_acc_all1819 series_01 part5,0.238,0.85,0.544,0.312,0.238,5,16,6,34
+fea_extractor_svm_bal_acc_all1819 series_01 MEAN,0.27,0.84,0.555,0.339,0.27,5.8,15.6,6.4,33.6
+fea_extractor_svm_bal_acc_all1819 series_02 part1,0.5,0.825,0.662,0.55,0.5,11,11,7,33
+fea_extractor_svm_bal_acc_all1819 series_02 part2,0.5,0.8,0.65,0.537,0.5,11,11,8,32
+fea_extractor_svm_bal_acc_all1819 series_02 part3,0.381,0.725,0.553,0.4,0.381,8,13,11,29
+fea_extractor_svm_bal_acc_all1819 series_02 part4,0.476,0.85,0.663,0.541,0.476,10,11,6,34
+fea_extractor_svm_bal_acc_all1819 series_02 part5,0.476,0.825,0.651,0.526,0.476,10,11,7,33
+fea_extractor_svm_bal_acc_all1819 series_02 MEAN,0.467,0.805,0.636,0.511,0.467,10.0,11.4,7.8,32.2
+fea_extractor_svm_bal_acc_all1819 series_03 part1,0.591,0.75,0.67,0.578,0.591,13,9,10,30
+fea_extractor_svm_bal_acc_all1819 series_03 part2,0.455,0.9,0.677,0.556,0.455,10,12,4,36
+fea_extractor_svm_bal_acc_all1819 series_03 part3,0.524,0.775,0.649,0.537,0.524,11,10,9,31
+fea_extractor_svm_bal_acc_all1819 series_03 part4,0.571,0.85,0.711,0.615,0.571,12,9,6,34
+fea_extractor_svm_bal_acc_all1819 series_03 part5,0.476,0.725,0.601,0.476,0.476,10,11,11,29
+fea_extractor_svm_bal_acc_all1819 series_03 MEAN,0.523,0.8,0.662,0.552,0.523,11.2,10.2,8.0,32.0
+fea_extractor_svm_bal_acc_all1819 series_04 part1,0.545,0.85,0.698,0.6,0.545,12,10,6,34
+fea_extractor_svm_bal_acc_all1819 series_04 part2,0.455,0.9,0.677,0.556,0.455,10,12,4,36
+fea_extractor_svm_bal_acc_all1819 series_04 part3,0.571,0.775,0.673,0.571,0.571,12,9,9,31
+fea_extractor_svm_bal_acc_all1819 series_04 part4,0.429,0.75,0.589,0.45,0.429,9,12,10,30
+fea_extractor_svm_bal_acc_all1819 series_04 part5,0.571,0.7,0.636,0.533,0.571,12,9,12,28
+fea_extractor_svm_bal_acc_all1819 series_04 MEAN,0.514,0.795,0.655,0.542,0.514,11.0,10.4,8.2,31.8
+fea_extractor_svm_bal_acc_all1819 series_05 part1,0.636,0.725,0.681,0.596,0.636,14,8,11,29
+fea_extractor_svm_bal_acc_all1819 series_05 part2,0.455,0.9,0.677,0.556,0.455,10,12,4,36
+fea_extractor_svm_bal_acc_all1819 series_05 part3,0.619,0.925,0.772,0.703,0.619,13,8,3,37
+fea_extractor_svm_bal_acc_all1819 series_05 part4,0.571,0.65,0.611,0.511,0.571,12,9,14,26
+fea_extractor_svm_bal_acc_all1819 series_05 part5,0.619,0.875,0.747,0.667,0.619,13,8,5,35
+fea_extractor_svm_bal_acc_all1819 series_05 MEAN,0.58,0.815,0.698,0.606,0.58,12.4,9.0,7.4,32.6
+fea_extractor_svm_bal_acc_all1819 series_06 part1,0.545,0.825,0.685,0.585,0.545,12,10,7,33
+fea_extractor_svm_bal_acc_all1819 series_06 part2,0.545,0.825,0.685,0.585,0.545,12,10,7,33
+fea_extractor_svm_bal_acc_all1819 series_06 part3,0.381,0.75,0.565,0.41,0.381,8,13,10,30
+fea_extractor_svm_bal_acc_all1819 series_06 part4,0.714,0.75,0.732,0.652,0.714,15,6,10,30
+fea_extractor_svm_bal_acc_all1819 series_06 part5,0.619,0.825,0.722,0.634,0.619,13,8,7,33
+fea_extractor_svm_bal_acc_all1819 series_06 MEAN,0.561,0.795,0.678,0.573,0.561,12.0,9.4,8.2,31.8
+fea_extractor_svm_bal_acc_all1819 series_07 part1,0.409,0.85,0.63,0.486,0.409,9,13,6,34
+fea_extractor_svm_bal_acc_all1819 series_07 part2,0.545,0.825,0.685,0.585,0.545,12,10,7,33
+fea_extractor_svm_bal_acc_all1819 series_07 part3,0.667,0.8,0.733,0.651,0.667,14,7,8,32
+fea_extractor_svm_bal_acc_all1819 series_07 part4,0.619,0.775,0.697,0.605,0.619,13,8,9,31
+fea_extractor_svm_bal_acc_all1819 series_07 part5,0.667,0.825,0.746,0.667,0.667,14,7,7,33
+fea_extractor_svm_bal_acc_all1819 series_07 MEAN,0.581,0.815,0.698,0.599,0.581,12.4,9.0,7.4,32.6
+fea_extractor_svm_bal_acc_all1819 series_08 part1,0.818,0.875,0.847,0.8,0.818,18,4,5,35
+fea_extractor_svm_bal_acc_all1819 series_08 part2,0.545,0.825,0.685,0.585,0.545,12,10,7,33
+fea_extractor_svm_bal_acc_all1819 series_08 part3,0.524,0.8,0.662,0.55,0.524,11,10,8,32
+fea_extractor_svm_bal_acc_all1819 series_08 part4,0.524,0.875,0.699,0.595,0.524,11,10,5,35
+fea_extractor_svm_bal_acc_all1819 series_08 part5,0.619,0.875,0.747,0.667,0.619,13,8,5,35
+fea_extractor_svm_bal_acc_all1819 series_08 MEAN,0.606,0.85,0.728,0.639,0.606,13.0,8.4,6.0,34.0
+fea_extractor_svm_bal_acc_all1819 series_09 part1,0.727,0.775,0.751,0.681,0.727,16,6,9,31
+fea_extractor_svm_bal_acc_all1819 series_09 part2,0.591,0.825,0.708,0.619,0.591,13,9,7,33
+fea_extractor_svm_bal_acc_all1819 series_09 part3,0.81,0.75,0.78,0.708,0.81,17,4,10,30
+fea_extractor_svm_bal_acc_all1819 series_09 part4,0.667,0.875,0.771,0.7,0.667,14,7,5,35
+fea_extractor_svm_bal_acc_all1819 series_09 part5,0.667,0.75,0.708,0.622,0.667,14,7,10,30
+fea_extractor_svm_bal_acc_all1819 series_09 MEAN,0.692,0.795,0.744,0.666,0.692,14.8,6.6,8.2,31.8
+fea_extractor_svm_bal_acc_all1819 series_10 part1,0.455,0.8,0.627,0.5,0.455,10,12,8,32
+fea_extractor_svm_bal_acc_all1819 series_10 part2,0.682,0.825,0.753,0.682,0.682,15,7,7,33
+fea_extractor_svm_bal_acc_all1819 series_10 part3,0.619,0.775,0.697,0.605,0.619,13,8,9,31
+fea_extractor_svm_bal_acc_all1819 series_10 part4,0.667,0.775,0.721,0.636,0.667,14,7,9,31
+fea_extractor_svm_bal_acc_all1819 series_10 part5,0.667,0.8,0.733,0.651,0.667,14,7,8,32
+fea_extractor_svm_bal_acc_all1819 series_10 MEAN,0.618,0.795,0.706,0.615,0.618,13.2,8.2,8.2,31.8
+fea_extractor_svm_bal_acc_all1819 series_11 part1,0.773,0.675,0.724,0.654,0.773,17,5,13,27
+fea_extractor_svm_bal_acc_all1819 series_11 part2,0.727,0.825,0.776,0.711,0.727,16,6,7,33
+fea_extractor_svm_bal_acc_all1819 series_11 part3,0.81,0.875,0.842,0.791,0.81,17,4,5,35
+fea_extractor_svm_bal_acc_all1819 series_11 part4,0.619,0.925,0.772,0.703,0.619,13,8,3,37
+fea_extractor_svm_bal_acc_all1819 series_11 part5,0.667,0.925,0.796,0.737,0.667,14,7,3,37
+fea_extractor_svm_bal_acc_all1819 series_11 MEAN,0.719,0.845,0.782,0.719,0.719,15.4,6.0,6.2,33.8
+fea_extractor_svm_bal_acc_all1819 series_12 part1,0.773,0.825,0.799,0.739,0.773,17,5,7,33
+fea_extractor_svm_bal_acc_all1819 series_12 part2,0.864,0.9,0.882,0.844,0.864,19,3,4,36
+fea_extractor_svm_bal_acc_all1819 series_12 part3,0.571,0.725,0.648,0.545,0.571,12,9,11,29
+fea_extractor_svm_bal_acc_all1819 series_12 part4,0.524,0.85,0.687,0.579,0.524,11,10,6,34
+fea_extractor_svm_bal_acc_all1819 series_12 part5,0.762,0.85,0.806,0.744,0.762,16,5,6,34
+fea_extractor_svm_bal_acc_all1819 series_12 MEAN,0.699,0.83,0.764,0.69,0.699,15.0,6.4,6.8,33.2

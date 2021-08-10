@@ -1,0 +1,12 @@
+series_01, eta0: 0.01,learning_rate: optimal,loss: perceptron,max_iter: 1000,penalty: l1,tol: 0.1353352832366127
+series_02, eta0: 0.01,learning_rate: optimal,loss: hinge,max_iter: 1000,penalty: elasticnet,tol: 0.0024787521766663585
+series_03, eta0: 0.01,learning_rate: optimal,loss: perceptron,max_iter: 1000,penalty: l1,tol: 0.1353352832366127
+series_04, eta0: 0.01,learning_rate: adaptive,loss: hinge,max_iter: 1000,penalty: l1,tol: 0.1353352832366127
+series_05, eta0: 0.01,learning_rate: optimal,loss: perceptron,max_iter: 1000,penalty: elasticnet,tol: 0.1353352832366127
+series_05_ev1, eta0: 0.01,learning_rate: adaptive,loss: hinge,max_iter: 1000,penalty: l1,tol: 0.1353352832366127
+series_06, eta0: 0.01,learning_rate: adaptive,loss: hinge,max_iter: 1000,penalty: elasticnet,tol: 0.0024787521766663585
+series_07, eta0: 0.01,learning_rate: adaptive,loss: hinge,max_iter: 1000,penalty: l1,tol: 0.1353352832366127
+series_08, eta0: 0.01,learning_rate: adaptive,loss: hinge,max_iter: 1000,penalty: l1,tol: 0.1353352832366127
+series_09, eta0: 0.01,learning_rate: adaptive,loss: hinge,max_iter: 1000,penalty: elasticnet,tol: 0.1353352832366127
+series_10, eta0: 0.01,learning_rate: adaptive,loss: hinge,max_iter: 1000,penalty: elasticnet,tol: 0.1353352832366127
+series_10_ev12, eta0: 0.01,learning_rate: adaptive,loss: hinge,max_iter: 1000,penalty: elasticnet,tol: 0.1353352832366127

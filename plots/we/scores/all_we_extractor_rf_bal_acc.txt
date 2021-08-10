@@ -1,0 +1,325 @@
+prediction,acc_failed,acc_passed,bal_acc,f1,recall,tn,fp,fn,tp
+we_extractor_rf_bal_acc_train1617_1718_test1819 series_00,0.421,0.77,0.595,0.455,0.421,45,62,46,154
+we_extractor_rf_bal_acc_train1617_1718_test1819 series_01,0.57,0.745,0.658,0.557,0.57,61,46,51,149
+we_extractor_rf_bal_acc_train1617_1718_test1819 series_02,0.654,0.715,0.685,0.598,0.654,70,37,57,143
+we_extractor_rf_bal_acc_train1617_1718_test1819 series_03,0.598,0.77,0.684,0.59,0.598,64,43,46,154
+we_extractor_rf_bal_acc_train1617_1718_test1819 series_04,0.664,0.77,0.717,0.634,0.664,71,36,46,154
+we_extractor_rf_bal_acc_train1617_1718_test1819 series_05,0.701,0.72,0.71,0.63,0.701,75,32,56,144
+we_extractor_rf_bal_acc_train1617_1718_test1819 series_06,0.748,0.725,0.736,0.661,0.748,80,27,55,145
+we_extractor_rf_bal_acc_train1617_1718_test1819 series_07,0.794,0.71,0.752,0.68,0.794,85,22,58,142
+we_extractor_rf_bal_acc_train1617_1718_test1819 series_08,0.72,0.74,0.73,0.653,0.72,77,30,52,148
+we_extractor_rf_bal_acc_train1617_1718_test1819 series_09,0.729,0.77,0.749,0.675,0.729,78,29,46,154
+we_extractor_rf_bal_acc_train1617_1718_test1819 series_10,0.757,0.77,0.764,0.692,0.757,81,26,46,154
+we_extractor_rf_bal_acc_train1617_1718_test1819 series_11,0.794,0.71,0.752,0.68,0.794,85,22,58,142
+we_extractor_rf_bal_acc_train1617_1819_test1718 series_00,0.333,0.92,0.627,0.465,0.333,37,74,11,127
+we_extractor_rf_bal_acc_train1617_1819_test1718 series_01,0.459,0.862,0.661,0.564,0.459,51,60,19,119
+we_extractor_rf_bal_acc_train1617_1819_test1718 series_02,0.505,0.848,0.676,0.596,0.505,56,55,21,117
+we_extractor_rf_bal_acc_train1617_1819_test1718 series_03,0.568,0.775,0.671,0.615,0.568,63,48,31,107
+we_extractor_rf_bal_acc_train1617_1819_test1718 series_04,0.523,0.891,0.707,0.63,0.523,58,53,15,123
+we_extractor_rf_bal_acc_train1617_1819_test1718 series_05,0.577,0.855,0.716,0.656,0.577,64,47,20,118
+we_extractor_rf_bal_acc_train1617_1819_test1718 series_06,0.559,0.913,0.736,0.67,0.559,62,49,12,126
+we_extractor_rf_bal_acc_train1617_1819_test1718 series_07,0.486,0.935,0.711,0.621,0.486,54,57,9,129
+we_extractor_rf_bal_acc_train1617_1819_test1718 series_08,0.505,0.942,0.723,0.64,0.505,56,55,8,130
+we_extractor_rf_bal_acc_train1617_1819_test1718 series_09,0.613,0.906,0.759,0.708,0.613,68,43,13,125
+we_extractor_rf_bal_acc_train1617_1819_test1718 series_10,0.568,0.978,0.773,0.712,0.568,63,48,3,135
+we_extractor_rf_bal_acc_train1617_1819_test1718 series_11,0.622,0.978,0.8,0.754,0.622,69,42,3,135
+we_extractor_rf_bal_acc_train1718_1819_test1617 series_00,0.325,0.924,0.624,0.46,0.325,49,102,13,158
+we_extractor_rf_bal_acc_train1718_1819_test1617 series_01,0.364,0.953,0.659,0.514,0.364,55,96,8,163
+we_extractor_rf_bal_acc_train1718_1819_test1617 series_02,0.371,0.918,0.644,0.507,0.371,56,95,14,157
+we_extractor_rf_bal_acc_train1718_1819_test1617 series_03,0.464,0.924,0.694,0.598,0.464,70,81,13,158
+we_extractor_rf_bal_acc_train1718_1819_test1617 series_04,0.51,0.947,0.729,0.65,0.51,77,74,9,162
+we_extractor_rf_bal_acc_train1718_1819_test1617 series_05,0.603,0.918,0.76,0.711,0.603,91,60,14,157
+we_extractor_rf_bal_acc_train1718_1819_test1617 series_06,0.636,0.936,0.786,0.744,0.636,96,55,11,160
+we_extractor_rf_bal_acc_train1718_1819_test1617 series_07,0.642,0.965,0.804,0.764,0.642,97,54,6,165
+we_extractor_rf_bal_acc_train1718_1819_test1617 series_08,0.629,0.959,0.794,0.751,0.629,95,56,7,164
+we_extractor_rf_bal_acc_train1718_1819_test1617 series_09,0.623,0.912,0.767,0.723,0.623,94,57,15,156
+we_extractor_rf_bal_acc_train1718_1819_test1617 series_10,0.629,0.965,0.797,0.754,0.629,95,56,6,165
+we_extractor_rf_bal_acc_train1718_1819_test1617 series_11,0.649,0.947,0.798,0.76,0.649,98,53,9,162
+we_extractor_rf_bal_acc_train1617_test1718 series_00,0.523,0.797,0.66,0.589,0.523,58,53,28,110
+we_extractor_rf_bal_acc_train1617_test1718 series_01,0.631,0.725,0.678,0.639,0.631,70,41,38,100
+we_extractor_rf_bal_acc_train1617_test1718 series_02,0.667,0.775,0.721,0.685,0.667,74,37,31,107
+we_extractor_rf_bal_acc_train1617_test1718 series_03,0.676,0.717,0.697,0.667,0.676,75,36,39,99
+we_extractor_rf_bal_acc_train1617_test1718 series_04,0.64,0.775,0.708,0.667,0.64,71,40,31,107
+we_extractor_rf_bal_acc_train1617_test1718 series_05,0.73,0.804,0.767,0.74,0.73,81,30,27,111
+we_extractor_rf_bal_acc_train1617_test1718 series_06,0.694,0.833,0.764,0.73,0.694,77,34,23,115
+we_extractor_rf_bal_acc_train1617_test1718 series_07,0.64,0.906,0.773,0.728,0.64,71,40,13,125
+we_extractor_rf_bal_acc_train1617_test1718 series_08,0.649,0.891,0.77,0.727,0.649,72,39,15,123
+we_extractor_rf_bal_acc_train1617_test1718 series_09,0.658,0.884,0.771,0.73,0.658,73,38,16,122
+we_extractor_rf_bal_acc_train1617_test1718 series_10,0.685,0.891,0.788,0.752,0.685,76,35,15,123
+we_extractor_rf_bal_acc_train1617_test1718 series_11,0.685,0.949,0.817,0.784,0.685,76,35,7,131
+we_extractor_rf_bal_acc_train1617_test1819 series_00,0.421,0.8,0.61,0.469,0.421,45,62,40,160
+we_extractor_rf_bal_acc_train1617_test1819 series_01,0.598,0.695,0.647,0.552,0.598,64,43,61,139
+we_extractor_rf_bal_acc_train1617_test1819 series_02,0.673,0.7,0.686,0.603,0.673,72,35,60,140
+we_extractor_rf_bal_acc_train1617_test1819 series_03,0.673,0.725,0.699,0.615,0.673,72,35,55,145
+we_extractor_rf_bal_acc_train1617_test1819 series_04,0.645,0.675,0.66,0.573,0.645,69,38,65,135
+we_extractor_rf_bal_acc_train1617_test1819 series_05,0.738,0.74,0.739,0.664,0.738,79,28,52,148
+we_extractor_rf_bal_acc_train1617_test1819 series_06,0.738,0.745,0.742,0.667,0.738,79,28,51,149
+we_extractor_rf_bal_acc_train1617_test1819 series_07,0.766,0.775,0.771,0.701,0.766,82,25,45,155
+we_extractor_rf_bal_acc_train1617_test1819 series_08,0.738,0.81,0.774,0.705,0.738,79,28,38,162
+we_extractor_rf_bal_acc_train1617_test1819 series_09,0.72,0.79,0.755,0.681,0.72,77,30,42,158
+we_extractor_rf_bal_acc_train1617_test1819 series_10,0.72,0.785,0.752,0.678,0.72,77,30,43,157
+we_extractor_rf_bal_acc_train1617_test1819 series_11,0.776,0.79,0.783,0.716,0.776,83,24,42,158
+we_extractor_rf_bal_acc_train1718_test1617 series_00,0.483,0.871,0.677,0.593,0.483,73,78,22,149
+we_extractor_rf_bal_acc_train1718_test1617 series_01,0.457,0.889,0.673,0.577,0.457,69,82,19,152
+we_extractor_rf_bal_acc_train1718_test1617 series_02,0.424,0.936,0.68,0.566,0.424,64,87,11,160
+we_extractor_rf_bal_acc_train1718_test1617 series_03,0.55,0.906,0.728,0.664,0.55,83,68,16,155
+we_extractor_rf_bal_acc_train1718_test1617 series_04,0.695,0.848,0.772,0.745,0.695,105,46,26,145
+we_extractor_rf_bal_acc_train1718_test1617 series_05,0.781,0.877,0.829,0.814,0.781,118,33,21,150
+we_extractor_rf_bal_acc_train1718_test1617 series_06,0.662,0.906,0.784,0.749,0.662,100,51,16,155
+we_extractor_rf_bal_acc_train1718_test1617 series_07,0.768,0.895,0.831,0.814,0.768,116,35,18,153
+we_extractor_rf_bal_acc_train1718_test1617 series_08,0.775,0.901,0.838,0.821,0.775,117,34,17,154
+we_extractor_rf_bal_acc_train1718_test1617 series_09,0.642,0.93,0.786,0.746,0.642,97,54,12,159
+we_extractor_rf_bal_acc_train1718_test1617 series_10,0.742,0.889,0.815,0.794,0.742,112,39,19,152
+we_extractor_rf_bal_acc_train1718_test1617 series_11,0.728,0.93,0.829,0.806,0.728,110,41,12,159
+we_extractor_rf_bal_acc_train1718_test1819 series_00,0.458,0.68,0.569,0.445,0.458,49,58,64,136
+we_extractor_rf_bal_acc_train1718_test1819 series_01,0.495,0.76,0.628,0.51,0.495,53,54,48,152
+we_extractor_rf_bal_acc_train1718_test1819 series_02,0.523,0.8,0.662,0.552,0.523,56,51,40,160
+we_extractor_rf_bal_acc_train1718_test1819 series_03,0.561,0.83,0.695,0.597,0.561,60,47,34,166
+we_extractor_rf_bal_acc_train1718_test1819 series_04,0.589,0.795,0.692,0.597,0.589,63,44,41,159
+we_extractor_rf_bal_acc_train1718_test1819 series_05,0.701,0.74,0.72,0.641,0.701,75,32,52,148
+we_extractor_rf_bal_acc_train1718_test1819 series_06,0.72,0.71,0.715,0.636,0.72,77,30,58,142
+we_extractor_rf_bal_acc_train1718_test1819 series_07,0.72,0.785,0.752,0.678,0.72,77,30,43,157
+we_extractor_rf_bal_acc_train1718_test1819 series_08,0.682,0.8,0.741,0.664,0.682,73,34,40,160
+we_extractor_rf_bal_acc_train1718_test1819 series_09,0.757,0.715,0.736,0.661,0.757,81,26,57,143
+we_extractor_rf_bal_acc_train1718_test1819 series_10,0.701,0.745,0.723,0.644,0.701,75,32,51,149
+we_extractor_rf_bal_acc_train1718_test1819 series_11,0.738,0.755,0.747,0.672,0.738,79,28,49,151
+we_extractor_rf_bal_acc_train1819_test1617 series_00,0.238,0.947,0.593,0.367,0.238,36,115,9,162
+we_extractor_rf_bal_acc_train1819_test1617 series_01,0.338,0.965,0.651,0.49,0.338,51,100,6,165
+we_extractor_rf_bal_acc_train1819_test1617 series_02,0.331,0.959,0.645,0.481,0.331,50,101,7,164
+we_extractor_rf_bal_acc_train1819_test1617 series_03,0.444,0.936,0.69,0.585,0.444,67,84,11,160
+we_extractor_rf_bal_acc_train1819_test1617 series_04,0.503,0.953,0.728,0.647,0.503,76,75,8,163
+we_extractor_rf_bal_acc_train1819_test1617 series_05,0.483,0.936,0.71,0.621,0.483,73,78,11,160
+we_extractor_rf_bal_acc_train1819_test1617 series_06,0.563,0.947,0.755,0.694,0.563,85,66,9,162
+we_extractor_rf_bal_acc_train1819_test1617 series_07,0.523,0.971,0.747,0.672,0.523,79,72,5,166
+we_extractor_rf_bal_acc_train1819_test1617 series_08,0.49,0.994,0.742,0.655,0.49,74,77,1,170
+we_extractor_rf_bal_acc_train1819_test1617 series_09,0.503,0.959,0.731,0.65,0.503,76,75,7,164
+we_extractor_rf_bal_acc_train1819_test1617 series_10,0.57,0.982,0.776,0.717,0.57,86,65,3,168
+we_extractor_rf_bal_acc_train1819_test1617 series_11,0.397,0.965,0.681,0.553,0.397,60,91,6,165
+we_extractor_rf_bal_acc_train1819_test1718 series_00,0.261,0.87,0.565,0.367,0.261,29,82,18,120
+we_extractor_rf_bal_acc_train1819_test1718 series_01,0.324,0.906,0.615,0.45,0.324,36,75,13,125
+we_extractor_rf_bal_acc_train1819_test1718 series_02,0.342,0.891,0.617,0.463,0.342,38,73,15,123
+we_extractor_rf_bal_acc_train1819_test1718 series_03,0.396,0.891,0.644,0.518,0.396,44,67,15,123
+we_extractor_rf_bal_acc_train1819_test1718 series_04,0.315,0.957,0.636,0.461,0.315,35,76,6,132
+we_extractor_rf_bal_acc_train1819_test1718 series_05,0.459,0.92,0.69,0.59,0.459,51,60,11,127
+we_extractor_rf_bal_acc_train1819_test1718 series_06,0.486,0.92,0.703,0.614,0.486,54,57,11,127
+we_extractor_rf_bal_acc_train1819_test1718 series_07,0.396,0.964,0.68,0.55,0.396,44,67,5,133
+we_extractor_rf_bal_acc_train1819_test1718 series_08,0.45,0.964,0.707,0.602,0.45,50,61,5,133
+we_extractor_rf_bal_acc_train1819_test1718 series_09,0.423,0.986,0.704,0.587,0.423,47,64,2,136
+we_extractor_rf_bal_acc_train1819_test1718 series_10,0.324,0.993,0.659,0.486,0.324,36,75,1,137
+we_extractor_rf_bal_acc_train1819_test1718 series_11,0.423,0.993,0.708,0.591,0.423,47,64,1,137
+we_extractor_rf_bal_acc_all1617 series_01 part1,0.567,0.657,0.612,0.576,0.567,17,13,12,23
+we_extractor_rf_bal_acc_all1617 series_01 part2,0.613,0.824,0.718,0.679,0.613,19,12,6,28
+we_extractor_rf_bal_acc_all1617 series_01 part3,0.667,0.735,0.701,0.678,0.667,20,10,9,25
+we_extractor_rf_bal_acc_all1617 series_01 part4,0.633,0.618,0.625,0.613,0.633,19,11,13,21
+we_extractor_rf_bal_acc_all1617 series_01 part5,0.633,0.941,0.787,0.745,0.633,19,11,2,32
+we_extractor_rf_bal_acc_all1617 series_01 MEAN,0.623,0.755,0.689,0.658,0.623,18.8,11.4,8.4,25.8
+we_extractor_rf_bal_acc_all1617 series_02 part1,0.667,0.714,0.69,0.667,0.667,20,10,10,25
+we_extractor_rf_bal_acc_all1617 series_02 part2,0.903,0.559,0.731,0.757,0.903,28,3,15,19
+we_extractor_rf_bal_acc_all1617 series_02 part3,0.667,0.853,0.76,0.727,0.667,20,10,5,29
+we_extractor_rf_bal_acc_all1617 series_02 part4,0.6,0.853,0.726,0.679,0.6,18,12,5,29
+we_extractor_rf_bal_acc_all1617 series_02 part5,0.733,0.765,0.749,0.733,0.733,22,8,8,26
+we_extractor_rf_bal_acc_all1617 series_02 MEAN,0.714,0.749,0.731,0.713,0.714,21.6,8.6,8.6,25.6
+we_extractor_rf_bal_acc_all1617 series_03 part1,0.8,0.829,0.814,0.8,0.8,24,6,6,29
+we_extractor_rf_bal_acc_all1617 series_03 part2,0.774,0.794,0.784,0.774,0.774,24,7,7,27
+we_extractor_rf_bal_acc_all1617 series_03 part3,0.733,0.824,0.778,0.759,0.733,22,8,6,28
+we_extractor_rf_bal_acc_all1617 series_03 part4,0.6,0.794,0.697,0.655,0.6,18,12,7,27
+we_extractor_rf_bal_acc_all1617 series_03 part5,0.6,0.794,0.697,0.655,0.6,18,12,7,27
+we_extractor_rf_bal_acc_all1617 series_03 MEAN,0.702,0.807,0.754,0.728,0.702,21.2,9.0,6.6,27.6
+we_extractor_rf_bal_acc_all1617 series_04 part1,0.733,0.857,0.795,0.772,0.733,22,8,5,30
+we_extractor_rf_bal_acc_all1617 series_04 part2,0.71,0.765,0.737,0.721,0.71,22,9,8,26
+we_extractor_rf_bal_acc_all1617 series_04 part3,0.5,0.824,0.662,0.588,0.5,15,15,6,28
+we_extractor_rf_bal_acc_all1617 series_04 part4,0.733,0.706,0.72,0.71,0.733,22,8,10,24
+we_extractor_rf_bal_acc_all1617 series_04 part5,0.8,0.853,0.826,0.814,0.8,24,6,5,29
+we_extractor_rf_bal_acc_all1617 series_04 MEAN,0.695,0.801,0.748,0.721,0.695,21.0,9.2,6.8,27.4
+we_extractor_rf_bal_acc_all1617 series_05 part1,0.733,0.8,0.767,0.746,0.733,22,8,7,28
+we_extractor_rf_bal_acc_all1617 series_05 part2,0.774,0.824,0.799,0.787,0.774,24,7,6,28
+we_extractor_rf_bal_acc_all1617 series_05 part3,0.8,0.765,0.782,0.774,0.8,24,6,8,26
+we_extractor_rf_bal_acc_all1617 series_05 part4,0.667,0.824,0.745,0.714,0.667,20,10,6,28
+we_extractor_rf_bal_acc_all1617 series_05 part5,0.733,0.765,0.749,0.733,0.733,22,8,8,26
+we_extractor_rf_bal_acc_all1617 series_05 MEAN,0.742,0.795,0.768,0.751,0.742,22.4,7.8,7.0,27.2
+we_extractor_rf_bal_acc_all1617 series_06 part1,0.7,0.914,0.807,0.778,0.7,21,9,3,32
+we_extractor_rf_bal_acc_all1617 series_06 part2,0.774,0.794,0.784,0.774,0.774,24,7,7,27
+we_extractor_rf_bal_acc_all1617 series_06 part3,0.767,0.882,0.825,0.807,0.767,23,7,4,30
+we_extractor_rf_bal_acc_all1617 series_06 part4,0.867,0.853,0.86,0.852,0.867,26,4,5,29
+we_extractor_rf_bal_acc_all1617 series_06 part5,0.767,0.882,0.825,0.807,0.767,23,7,4,30
+we_extractor_rf_bal_acc_all1617 series_06 MEAN,0.775,0.865,0.82,0.804,0.775,23.4,6.8,4.6,29.6
+we_extractor_rf_bal_acc_all1617 series_07 part1,0.833,0.829,0.831,0.82,0.833,25,5,6,29
+we_extractor_rf_bal_acc_all1617 series_07 part2,0.839,0.853,0.846,0.839,0.839,26,5,5,29
+we_extractor_rf_bal_acc_all1617 series_07 part3,0.667,0.941,0.804,0.769,0.667,20,10,2,32
+we_extractor_rf_bal_acc_all1617 series_07 part4,0.733,0.912,0.823,0.8,0.733,22,8,3,31
+we_extractor_rf_bal_acc_all1617 series_07 part5,0.833,0.765,0.799,0.794,0.833,25,5,8,26
+we_extractor_rf_bal_acc_all1617 series_07 MEAN,0.781,0.86,0.82,0.804,0.781,23.6,6.6,4.8,29.4
+we_extractor_rf_bal_acc_all1617 series_08 part1,0.742,0.912,0.827,0.807,0.742,23,8,3,31
+we_extractor_rf_bal_acc_all1617 series_08 part2,0.8,0.829,0.814,0.8,0.8,24,6,6,29
+we_extractor_rf_bal_acc_all1617 series_08 part3,0.8,0.853,0.826,0.814,0.8,24,6,5,29
+we_extractor_rf_bal_acc_all1617 series_08 part4,0.767,0.853,0.81,0.793,0.767,23,7,5,29
+we_extractor_rf_bal_acc_all1617 series_08 part5,0.733,0.912,0.823,0.8,0.733,22,8,3,31
+we_extractor_rf_bal_acc_all1617 series_08 MEAN,0.768,0.872,0.82,0.803,0.768,23.2,7.0,4.4,29.8
+we_extractor_rf_bal_acc_all1617 series_09 part1,0.6,0.886,0.743,0.692,0.6,18,12,4,31
+we_extractor_rf_bal_acc_all1617 series_09 part2,0.806,0.853,0.83,0.82,0.806,25,6,5,29
+we_extractor_rf_bal_acc_all1617 series_09 part3,0.767,0.794,0.78,0.767,0.767,23,7,7,27
+we_extractor_rf_bal_acc_all1617 series_09 part4,0.8,0.941,0.871,0.857,0.8,24,6,2,32
+we_extractor_rf_bal_acc_all1617 series_09 part5,0.833,0.794,0.814,0.806,0.833,25,5,7,27
+we_extractor_rf_bal_acc_all1617 series_09 MEAN,0.761,0.854,0.807,0.788,0.761,23.0,7.2,5.0,29.2
+we_extractor_rf_bal_acc_all1617 series_10 part1,0.7,0.886,0.793,0.764,0.7,21,9,4,31
+we_extractor_rf_bal_acc_all1617 series_10 part2,0.839,0.882,0.861,0.852,0.839,26,5,4,30
+we_extractor_rf_bal_acc_all1617 series_10 part3,0.767,0.912,0.839,0.821,0.767,23,7,3,31
+we_extractor_rf_bal_acc_all1617 series_10 part4,0.833,0.912,0.873,0.862,0.833,25,5,3,31
+we_extractor_rf_bal_acc_all1617 series_10 part5,0.733,0.853,0.793,0.772,0.733,22,8,5,29
+we_extractor_rf_bal_acc_all1617 series_10 MEAN,0.774,0.889,0.832,0.814,0.774,23.4,6.8,3.8,30.4
+we_extractor_rf_bal_acc_all1617 series_11 part1,0.767,0.886,0.826,0.807,0.767,23,7,4,31
+we_extractor_rf_bal_acc_all1617 series_11 part2,0.645,0.882,0.764,0.727,0.645,20,11,4,30
+we_extractor_rf_bal_acc_all1617 series_11 part3,0.6,0.971,0.785,0.735,0.6,18,12,1,33
+we_extractor_rf_bal_acc_all1617 series_11 part4,0.8,0.853,0.826,0.814,0.8,24,6,5,29
+we_extractor_rf_bal_acc_all1617 series_11 part5,0.9,0.824,0.862,0.857,0.9,27,3,6,28
+we_extractor_rf_bal_acc_all1617 series_11 MEAN,0.742,0.883,0.813,0.788,0.742,22.4,7.8,4.0,30.2
+we_extractor_rf_bal_acc_all1617 series_12 part1,0.733,0.943,0.838,0.815,0.733,22,8,2,33
+we_extractor_rf_bal_acc_all1617 series_12 part2,0.774,0.912,0.843,0.828,0.774,24,7,3,31
+we_extractor_rf_bal_acc_all1617 series_12 part3,0.733,0.941,0.837,0.815,0.733,22,8,2,32
+we_extractor_rf_bal_acc_all1617 series_12 part4,0.867,0.882,0.875,0.867,0.867,26,4,4,30
+we_extractor_rf_bal_acc_all1617 series_12 part5,0.7,0.853,0.776,0.75,0.7,21,9,5,29
+we_extractor_rf_bal_acc_all1617 series_12 MEAN,0.762,0.906,0.834,0.815,0.762,23.0,7.2,3.2,31.0
+we_extractor_rf_bal_acc_all1718 series_01 part1,0.609,0.778,0.693,0.651,0.609,14,9,6,21
+we_extractor_rf_bal_acc_all1718 series_01 part2,0.636,0.75,0.693,0.651,0.636,14,8,7,21
+we_extractor_rf_bal_acc_all1718 series_01 part3,0.455,0.714,0.584,0.5,0.455,10,12,8,20
+we_extractor_rf_bal_acc_all1718 series_01 part4,0.273,0.786,0.529,0.353,0.273,6,16,6,22
+we_extractor_rf_bal_acc_all1718 series_01 part5,0.364,0.815,0.589,0.457,0.364,8,14,5,22
+we_extractor_rf_bal_acc_all1718 series_01 MEAN,0.467,0.769,0.618,0.522,0.467,10.4,11.8,6.4,21.2
+we_extractor_rf_bal_acc_all1718 series_02 part1,0.5,0.786,0.643,0.564,0.5,11,11,6,22
+we_extractor_rf_bal_acc_all1718 series_02 part2,0.545,0.893,0.719,0.649,0.545,12,10,3,25
+we_extractor_rf_bal_acc_all1718 series_02 part3,0.545,0.75,0.648,0.585,0.545,12,10,7,21
+we_extractor_rf_bal_acc_all1718 series_02 part4,0.565,0.815,0.69,0.634,0.565,13,10,5,22
+we_extractor_rf_bal_acc_all1718 series_02 part5,0.5,0.667,0.583,0.524,0.5,11,11,9,18
+we_extractor_rf_bal_acc_all1718 series_02 MEAN,0.531,0.782,0.657,0.591,0.531,11.8,10.4,6.0,21.6
+we_extractor_rf_bal_acc_all1718 series_03 part1,0.455,0.821,0.638,0.541,0.455,10,12,5,23
+we_extractor_rf_bal_acc_all1718 series_03 part2,0.591,0.75,0.67,0.619,0.591,13,9,7,21
+we_extractor_rf_bal_acc_all1718 series_03 part3,0.5,0.786,0.643,0.564,0.5,11,11,6,22
+we_extractor_rf_bal_acc_all1718 series_03 part4,0.565,0.741,0.653,0.605,0.565,13,10,7,20
+we_extractor_rf_bal_acc_all1718 series_03 part5,0.545,0.704,0.625,0.571,0.545,12,10,8,19
+we_extractor_rf_bal_acc_all1718 series_03 MEAN,0.531,0.76,0.646,0.58,0.531,11.8,10.4,6.6,21.0
+we_extractor_rf_bal_acc_all1718 series_04 part1,0.682,0.643,0.662,0.638,0.682,15,7,10,18
+we_extractor_rf_bal_acc_all1718 series_04 part2,0.545,0.857,0.701,0.632,0.545,12,10,4,24
+we_extractor_rf_bal_acc_all1718 series_04 part3,0.591,0.786,0.688,0.634,0.591,13,9,6,22
+we_extractor_rf_bal_acc_all1718 series_04 part4,0.478,0.741,0.61,0.537,0.478,11,12,7,20
+we_extractor_rf_bal_acc_all1718 series_04 part5,0.636,0.815,0.726,0.683,0.636,14,8,5,22
+we_extractor_rf_bal_acc_all1718 series_04 MEAN,0.587,0.768,0.677,0.625,0.587,13.0,9.2,6.4,21.2
+we_extractor_rf_bal_acc_all1718 series_05 part1,0.455,0.786,0.62,0.526,0.455,10,12,6,22
+we_extractor_rf_bal_acc_all1718 series_05 part2,0.727,0.929,0.828,0.8,0.727,16,6,2,26
+we_extractor_rf_bal_acc_all1718 series_05 part3,0.5,0.714,0.607,0.537,0.5,11,11,8,20
+we_extractor_rf_bal_acc_all1718 series_05 part4,0.565,0.889,0.727,0.667,0.565,13,10,3,24
+we_extractor_rf_bal_acc_all1718 series_05 part5,0.773,0.741,0.757,0.739,0.773,17,5,7,20
+we_extractor_rf_bal_acc_all1718 series_05 MEAN,0.604,0.812,0.708,0.654,0.604,13.4,8.8,5.2,22.4
+we_extractor_rf_bal_acc_all1718 series_06 part1,0.727,0.929,0.828,0.8,0.727,16,6,2,26
+we_extractor_rf_bal_acc_all1718 series_06 part2,0.455,0.857,0.656,0.556,0.455,10,12,4,24
+we_extractor_rf_bal_acc_all1718 series_06 part3,0.818,0.857,0.838,0.818,0.818,18,4,4,24
+we_extractor_rf_bal_acc_all1718 series_06 part4,0.565,0.852,0.709,0.65,0.565,13,10,4,23
+we_extractor_rf_bal_acc_all1718 series_06 part5,0.545,0.852,0.699,0.632,0.545,12,10,4,23
+we_extractor_rf_bal_acc_all1718 series_06 MEAN,0.622,0.869,0.746,0.691,0.622,13.8,8.4,3.6,24.0
+we_extractor_rf_bal_acc_all1718 series_07 part1,0.826,0.741,0.783,0.776,0.826,19,4,7,20
+we_extractor_rf_bal_acc_all1718 series_07 part2,0.636,0.821,0.729,0.683,0.636,14,8,5,23
+we_extractor_rf_bal_acc_all1718 series_07 part3,0.591,0.964,0.778,0.722,0.591,13,9,1,27
+we_extractor_rf_bal_acc_all1718 series_07 part4,0.773,0.964,0.869,0.85,0.773,17,5,1,27
+we_extractor_rf_bal_acc_all1718 series_07 part5,0.545,0.815,0.68,0.615,0.545,12,10,5,22
+we_extractor_rf_bal_acc_all1718 series_07 MEAN,0.674,0.861,0.768,0.729,0.674,15.0,7.2,3.8,23.8
+we_extractor_rf_bal_acc_all1718 series_08 part1,0.727,1.0,0.864,0.842,0.727,16,6,0,28
+we_extractor_rf_bal_acc_all1718 series_08 part2,0.636,0.857,0.747,0.7,0.636,14,8,4,24
+we_extractor_rf_bal_acc_all1718 series_08 part3,0.818,0.893,0.856,0.837,0.818,18,4,3,25
+we_extractor_rf_bal_acc_all1718 series_08 part4,0.478,0.963,0.721,0.629,0.478,11,12,1,26
+we_extractor_rf_bal_acc_all1718 series_08 part5,0.636,0.815,0.726,0.683,0.636,14,8,5,22
+we_extractor_rf_bal_acc_all1718 series_08 MEAN,0.659,0.906,0.782,0.738,0.659,14.6,7.6,2.6,25.0
+we_extractor_rf_bal_acc_all1718 series_09 part1,0.773,0.964,0.869,0.85,0.773,17,5,1,27
+we_extractor_rf_bal_acc_all1718 series_09 part2,0.636,0.857,0.747,0.7,0.636,14,8,4,24
+we_extractor_rf_bal_acc_all1718 series_09 part3,0.682,0.964,0.823,0.789,0.682,15,7,1,27
+we_extractor_rf_bal_acc_all1718 series_09 part4,0.652,0.852,0.752,0.714,0.652,15,8,4,23
+we_extractor_rf_bal_acc_all1718 series_09 part5,0.545,0.852,0.699,0.632,0.545,12,10,4,23
+we_extractor_rf_bal_acc_all1718 series_09 MEAN,0.658,0.898,0.778,0.737,0.658,14.6,7.6,2.8,24.8
+we_extractor_rf_bal_acc_all1718 series_10 part1,0.545,0.893,0.719,0.649,0.545,12,10,3,25
+we_extractor_rf_bal_acc_all1718 series_10 part2,0.682,0.893,0.787,0.75,0.682,15,7,3,25
+we_extractor_rf_bal_acc_all1718 series_10 part3,0.727,0.964,0.846,0.821,0.727,16,6,1,27
+we_extractor_rf_bal_acc_all1718 series_10 part4,0.565,0.926,0.746,0.684,0.565,13,10,2,25
+we_extractor_rf_bal_acc_all1718 series_10 part5,0.727,0.852,0.79,0.762,0.727,16,6,4,23
+we_extractor_rf_bal_acc_all1718 series_10 MEAN,0.649,0.906,0.777,0.733,0.649,14.4,7.8,2.6,25.0
+we_extractor_rf_bal_acc_all1718 series_11 part1,0.682,0.964,0.823,0.789,0.682,15,7,1,27
+we_extractor_rf_bal_acc_all1718 series_11 part2,0.727,1.0,0.864,0.842,0.727,16,6,0,28
+we_extractor_rf_bal_acc_all1718 series_11 part3,0.727,0.893,0.81,0.78,0.727,16,6,3,25
+we_extractor_rf_bal_acc_all1718 series_11 part4,0.565,0.852,0.709,0.65,0.565,13,10,4,23
+we_extractor_rf_bal_acc_all1718 series_11 part5,0.545,1.0,0.773,0.706,0.545,12,10,0,27
+we_extractor_rf_bal_acc_all1718 series_11 MEAN,0.649,0.942,0.796,0.754,0.649,14.4,7.8,1.6,26.0
+we_extractor_rf_bal_acc_all1718 series_12 part1,0.609,1.0,0.804,0.757,0.609,14,9,0,27
+we_extractor_rf_bal_acc_all1718 series_12 part2,0.773,0.929,0.851,0.829,0.773,17,5,2,26
+we_extractor_rf_bal_acc_all1718 series_12 part3,0.682,0.893,0.787,0.75,0.682,15,7,3,25
+we_extractor_rf_bal_acc_all1718 series_12 part4,0.591,0.964,0.778,0.722,0.591,13,9,1,27
+we_extractor_rf_bal_acc_all1718 series_12 part5,0.909,0.963,0.936,0.93,0.909,20,2,1,26
+we_extractor_rf_bal_acc_all1718 series_12 MEAN,0.713,0.95,0.831,0.798,0.713,15.8,6.4,1.4,26.2
+we_extractor_rf_bal_acc_all1819 series_01 part1,0.136,0.875,0.506,0.2,0.136,3,19,5,35
+we_extractor_rf_bal_acc_all1819 series_01 part2,0.318,0.95,0.634,0.452,0.318,7,15,2,38
+we_extractor_rf_bal_acc_all1819 series_01 part3,0.095,0.85,0.473,0.138,0.095,2,19,6,34
+we_extractor_rf_bal_acc_all1819 series_01 part4,0.19,0.9,0.545,0.276,0.19,4,17,4,36
+we_extractor_rf_bal_acc_all1819 series_01 part5,0.381,0.9,0.64,0.485,0.381,8,13,4,36
+we_extractor_rf_bal_acc_all1819 series_01 MEAN,0.224,0.895,0.56,0.31,0.224,4.8,16.6,4.2,35.8
+we_extractor_rf_bal_acc_all1819 series_02 part1,0.364,0.85,0.607,0.444,0.364,8,14,6,34
+we_extractor_rf_bal_acc_all1819 series_02 part2,0.409,0.9,0.655,0.514,0.409,9,13,4,36
+we_extractor_rf_bal_acc_all1819 series_02 part3,0.476,0.925,0.701,0.588,0.476,10,11,3,37
+we_extractor_rf_bal_acc_all1819 series_02 part4,0.476,0.75,0.613,0.488,0.476,10,11,10,30
+we_extractor_rf_bal_acc_all1819 series_02 part5,0.238,0.85,0.544,0.312,0.238,5,16,6,34
+we_extractor_rf_bal_acc_all1819 series_02 MEAN,0.393,0.855,0.624,0.469,0.393,8.4,13.0,5.8,34.2
+we_extractor_rf_bal_acc_all1819 series_03 part1,0.409,0.775,0.592,0.45,0.409,9,13,9,31
+we_extractor_rf_bal_acc_all1819 series_03 part2,0.273,0.875,0.574,0.364,0.273,6,16,5,35
+we_extractor_rf_bal_acc_all1819 series_03 part3,0.333,0.925,0.629,0.452,0.333,7,14,3,37
+we_extractor_rf_bal_acc_all1819 series_03 part4,0.524,0.925,0.724,0.629,0.524,11,10,3,37
+we_extractor_rf_bal_acc_all1819 series_03 part5,0.476,0.975,0.726,0.625,0.476,10,11,1,39
+we_extractor_rf_bal_acc_all1819 series_03 MEAN,0.403,0.895,0.649,0.504,0.403,8.6,12.8,4.2,35.8
+we_extractor_rf_bal_acc_all1819 series_04 part1,0.5,0.925,0.712,0.611,0.5,11,11,3,37
+we_extractor_rf_bal_acc_all1819 series_04 part2,0.5,0.975,0.738,0.647,0.5,11,11,1,39
+we_extractor_rf_bal_acc_all1819 series_04 part3,0.286,0.925,0.605,0.4,0.286,6,15,3,37
+we_extractor_rf_bal_acc_all1819 series_04 part4,0.476,0.8,0.638,0.513,0.476,10,11,8,32
+we_extractor_rf_bal_acc_all1819 series_04 part5,0.524,0.75,0.637,0.524,0.524,11,10,10,30
+we_extractor_rf_bal_acc_all1819 series_04 MEAN,0.457,0.875,0.666,0.539,0.457,9.8,11.6,5.0,35.0
+we_extractor_rf_bal_acc_all1819 series_05 part1,0.5,0.85,0.675,0.564,0.5,11,11,6,34
+we_extractor_rf_bal_acc_all1819 series_05 part2,0.455,0.975,0.715,0.606,0.455,10,12,1,39
+we_extractor_rf_bal_acc_all1819 series_05 part3,0.381,0.95,0.665,0.516,0.381,8,13,2,38
+we_extractor_rf_bal_acc_all1819 series_05 part4,0.333,0.925,0.629,0.452,0.333,7,14,3,37
+we_extractor_rf_bal_acc_all1819 series_05 part5,0.429,0.95,0.689,0.562,0.429,9,12,2,38
+we_extractor_rf_bal_acc_all1819 series_05 MEAN,0.419,0.93,0.675,0.54,0.419,9.0,12.4,2.8,37.2
+we_extractor_rf_bal_acc_all1819 series_06 part1,0.545,0.9,0.723,0.632,0.545,12,10,4,36
+we_extractor_rf_bal_acc_all1819 series_06 part2,0.364,0.95,0.657,0.5,0.364,8,14,2,38
+we_extractor_rf_bal_acc_all1819 series_06 part3,0.524,0.975,0.749,0.667,0.524,11,10,1,39
+we_extractor_rf_bal_acc_all1819 series_06 part4,0.571,0.85,0.711,0.615,0.571,12,9,6,34
+we_extractor_rf_bal_acc_all1819 series_06 part5,0.286,0.975,0.63,0.429,0.286,6,15,1,39
+we_extractor_rf_bal_acc_all1819 series_06 MEAN,0.458,0.93,0.694,0.568,0.458,9.8,11.6,2.8,37.2
+we_extractor_rf_bal_acc_all1819 series_07 part1,0.364,0.95,0.657,0.5,0.364,8,14,2,38
+we_extractor_rf_bal_acc_all1819 series_07 part2,0.545,1.0,0.773,0.706,0.545,12,10,0,40
+we_extractor_rf_bal_acc_all1819 series_07 part3,0.667,0.925,0.796,0.737,0.667,14,7,3,37
+we_extractor_rf_bal_acc_all1819 series_07 part4,0.476,0.925,0.701,0.588,0.476,10,11,3,37
+we_extractor_rf_bal_acc_all1819 series_07 part5,0.524,0.9,0.712,0.611,0.524,11,10,4,36
+we_extractor_rf_bal_acc_all1819 series_07 MEAN,0.515,0.94,0.728,0.628,0.515,11.0,10.4,2.4,37.6
+we_extractor_rf_bal_acc_all1819 series_08 part1,0.545,0.975,0.76,0.686,0.545,12,10,1,39
+we_extractor_rf_bal_acc_all1819 series_08 part2,0.409,0.975,0.692,0.563,0.409,9,13,1,39
+we_extractor_rf_bal_acc_all1819 series_08 part3,0.524,0.875,0.699,0.595,0.524,11,10,5,35
+we_extractor_rf_bal_acc_all1819 series_08 part4,0.571,0.925,0.748,0.667,0.571,12,9,3,37
+we_extractor_rf_bal_acc_all1819 series_08 part5,0.619,0.9,0.76,0.684,0.619,13,8,4,36
+we_extractor_rf_bal_acc_all1819 series_08 MEAN,0.534,0.93,0.732,0.639,0.534,11.4,10.0,2.8,37.2
+we_extractor_rf_bal_acc_all1819 series_09 part1,0.5,0.975,0.738,0.647,0.5,11,11,1,39
+we_extractor_rf_bal_acc_all1819 series_09 part2,0.545,0.95,0.748,0.667,0.545,12,10,2,38
+we_extractor_rf_bal_acc_all1819 series_09 part3,0.667,0.95,0.808,0.757,0.667,14,7,2,38
+we_extractor_rf_bal_acc_all1819 series_09 part4,0.429,0.925,0.677,0.545,0.429,9,12,3,37
+we_extractor_rf_bal_acc_all1819 series_09 part5,0.524,1.0,0.762,0.688,0.524,11,10,0,40
+we_extractor_rf_bal_acc_all1819 series_09 MEAN,0.533,0.96,0.746,0.661,0.533,11.4,10.0,1.6,38.4
+we_extractor_rf_bal_acc_all1819 series_10 part1,0.455,0.95,0.702,0.588,0.455,10,12,2,38
+we_extractor_rf_bal_acc_all1819 series_10 part2,0.591,0.95,0.77,0.703,0.591,13,9,2,38
+we_extractor_rf_bal_acc_all1819 series_10 part3,0.286,1.0,0.643,0.444,0.286,6,15,0,40
+we_extractor_rf_bal_acc_all1819 series_10 part4,0.571,0.825,0.698,0.6,0.571,12,9,7,33
+we_extractor_rf_bal_acc_all1819 series_10 part5,0.571,0.925,0.748,0.667,0.571,12,9,3,37
+we_extractor_rf_bal_acc_all1819 series_10 MEAN,0.495,0.93,0.712,0.6,0.495,10.6,10.8,2.8,37.2
+we_extractor_rf_bal_acc_all1819 series_11 part1,0.591,0.9,0.745,0.667,0.591,13,9,4,36
+we_extractor_rf_bal_acc_all1819 series_11 part2,0.409,0.9,0.655,0.514,0.409,9,13,4,36
+we_extractor_rf_bal_acc_all1819 series_11 part3,0.619,0.975,0.797,0.743,0.619,13,8,1,39
+we_extractor_rf_bal_acc_all1819 series_11 part4,0.571,0.9,0.736,0.649,0.571,12,9,4,36
+we_extractor_rf_bal_acc_all1819 series_11 part5,0.714,0.975,0.845,0.811,0.714,15,6,1,39
+we_extractor_rf_bal_acc_all1819 series_11 MEAN,0.581,0.93,0.755,0.677,0.581,12.4,9.0,2.8,37.2
+we_extractor_rf_bal_acc_all1819 series_12 part1,0.591,0.925,0.758,0.684,0.591,13,9,3,37
+we_extractor_rf_bal_acc_all1819 series_12 part2,0.727,0.925,0.826,0.78,0.727,16,6,3,37
+we_extractor_rf_bal_acc_all1819 series_12 part3,0.429,0.875,0.652,0.514,0.429,9,12,5,35
+we_extractor_rf_bal_acc_all1819 series_12 part4,0.571,0.95,0.761,0.686,0.571,12,9,2,38
+we_extractor_rf_bal_acc_all1819 series_12 part5,0.667,0.95,0.808,0.757,0.667,14,7,2,38
+we_extractor_rf_bal_acc_all1819 series_12 MEAN,0.597,0.925,0.761,0.684,0.597,12.8,8.6,3.0,37.0

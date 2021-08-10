@@ -1,0 +1,296 @@
+feature,importance
+wk01_total nr of submissions,-0.11898494885561865
+wk02_total nr of submissions,0.0682208050841101
+wk03_total nr of submissions,0.0819987018335555
+wk04_total nr of submissions,-0.022687167731556598
+wk05_total nr of submissions,0.01727404117493207
+wk06_total nr of submissions,-0.018750413486332926
+wk07_total nr of submissions,0.007892819568603682
+wk08_total nr of submissions,-0.02095823169221697
+wk09_total nr of submissions,0.007482179973310975
+wk10_total nr of submissions,0.08916576774817246
+wk11_total nr of submissions,0.06838429814122171
+wk12_total nr of submissions,0.07814619861476106
+wk13_total nr of submissions,0.002510769677737472
+wk14_total nr of submissions,-0.06379217046698474
+wk15_total nr of submissions,-0.02894815828235773
+wk16_total nr of submissions,0.08120749091127162
+wk17_total nr of submissions,-0.10834166057220847
+wk18_total nr of submissions,0.11045628706586924
+wk19_total nr of submissions,-0.0949132175219369
+wk20_total nr of submissions,0.0002731241463820122
+mean_total nr of submissions,0.026875995172839506
+wk01_total nr of exercises with no submissions,0.11052039923165542
+wk02_total nr of exercises with no submissions,0.10019417675504412
+wk03_total nr of exercises with no submissions,-0.26094933757276384
+wk04_total nr of exercises with no submissions,0.09537570161188767
+wk05_total nr of exercises with no submissions,0.028448075285136643
+wk06_total nr of exercises with no submissions,-0.050336103088022575
+wk07_total nr of exercises with no submissions,0.0200802671794731
+wk08_total nr of exercises with no submissions,-0.19095951751856047
+wk09_total nr of exercises with no submissions,0.26641016434334075
+wk10_total nr of exercises with no submissions,0.057979332393731736
+wk11_total nr of exercises with no submissions,0.2210781531800146
+wk12_total nr of exercises with no submissions,0.007266200318281183
+wk13_total nr of exercises with no submissions,-0.12898212761441086
+wk14_total nr of exercises with no submissions,-0.03281428767380466
+wk15_total nr of exercises with no submissions,0.0563646080841084
+wk16_total nr of exercises with no submissions,-0.14583874557359527
+wk17_total nr of exercises with no submissions,-0.22824710982036503
+wk18_total nr of exercises with no submissions,-0.11814886633948984
+wk19_total nr of exercises with no submissions,-0.09289291830751553
+wk20_total nr of exercises with no submissions,0.003496171432177109
+mean_total nr of exercises with no submissions,0.002683501762634195
+wk01_number of correct submissions,0.08905722500999011
+wk02_number of correct submissions,-0.09180231962431616
+wk03_number of correct submissions,-0.36603822436607725
+wk04_number of correct submissions,0.08083760617615177
+wk05_number of correct submissions,-0.07276730266604477
+wk06_number of correct submissions,-0.03687397127028543
+wk07_number of correct submissions,-0.04699555423679483
+wk08_number of correct submissions,0.053031421841999174
+wk09_number of correct submissions,0.017247940303030618
+wk10_number of correct submissions,-0.05322493346585969
+wk11_number of correct submissions,-0.031191091791938817
+wk12_number of correct submissions,0.09791451271261696
+wk13_number of correct submissions,0.16168294680125378
+wk14_number of correct submissions,-0.075490221570979
+wk15_number of correct submissions,0.01641349258837884
+wk16_number of correct submissions,0.016945437920129883
+wk17_number of correct submissions,0.14930830050429814
+wk18_number of correct submissions,0.03827552995151211
+wk19_number of correct submissions,0.04623776448298832
+wk20_number of correct submissions,-0.025486534564068904
+mean_number of correct submissions,-0.013805572463311565
+wk01_number of submissions after first correct submission,0.007587038549507723
+wk02_number of submissions after first correct submission,0.08512607203278459
+wk03_number of submissions after first correct submission,0.08737049539655825
+wk04_number of submissions after first correct submission,-0.20892050475304036
+wk05_number of submissions after first correct submission,-0.07112636865437334
+wk06_number of submissions after first correct submission,-0.08876021514906832
+wk07_number of submissions after first correct submission,-0.09384875777180504
+wk08_number of submissions after first correct submission,0.17988588719661966
+wk09_number of submissions after first correct submission,0.1094496990224458
+wk10_number of submissions after first correct submission,0.117078708119523
+wk11_number of submissions after first correct submission,0.044961284524394976
+wk12_number of submissions after first correct submission,0.052470139853776784
+wk13_number of submissions after first correct submission,0.032290037271144635
+wk14_number of submissions after first correct submission,-0.021381759379808137
+wk15_number of submissions after first correct submission,-0.10170922252549824
+wk16_number of submissions after first correct submission,0.023342092261950963
+wk17_number of submissions after first correct submission,-0.09113049396008066
+wk18_number of submissions after first correct submission,0.21882726030506724
+wk19_number of submissions after first correct submission,0.01282897316928293
+wk20_number of submissions after first correct submission,-0.04198752673481653
+mean_number of submissions after first correct submission,0.007103889416902539
+wk01_number of submissions before first correct,-0.1342936399698019
+wk02_number of submissions before first correct,0.05914223122522935
+wk03_number of submissions before first correct,0.07166880845695119
+wk04_number of submissions before first correct,0.02919791246662443
+wk05_number of submissions before first correct,0.032962653095512696
+wk06_number of submissions before first correct,-0.00303776257014269
+wk07_number of submissions before first correct,0.029357027191241326
+wk08_number of submissions before first correct,-0.06462518264639136
+wk09_number of submissions before first correct,-0.023510181944989085
+wk10_number of submissions before first correct,0.06874440193486148
+wk11_number of submissions before first correct,0.06511476609504861
+wk12_number of submissions before first correct,0.0752946468995075
+wk13_number of submissions before first correct,-0.003598180139720378
+wk14_number of submissions before first correct,-0.06147076456014227
+wk15_number of submissions before first correct,-0.006824507255280508
+wk16_number of submissions before first correct,0.08247321677261135
+wk17_number of submissions before first correct,-0.10150447222542786
+wk18_number of submissions before first correct,0.10053341621297918
+wk19_number of submissions before first correct,-0.09695632283640078
+wk20_number of submissions before first correct,0.012829432243236101
+mean_number of submissions before first correct,0.02791057355747365
+wk01_time between first and last submissions of a series,-0.10609890859890957
+wk02_time between first and last submissions of a series,-0.11685679384599608
+wk03_time between first and last submissions of a series,0.1251853974677762
+wk04_time between first and last submissions of a series,-0.0027197077136107565
+wk05_time between first and last submissions of a series,0.00846595141229265
+wk06_time between first and last submissions of a series,-0.03020329231449345
+wk07_time between first and last submissions of a series,0.0899291202643634
+wk08_time between first and last submissions of a series,0.047338291651206454
+wk09_time between first and last submissions of a series,0.09089819902094674
+wk10_time between first and last submissions of a series,0.07378804751466818
+wk11_time between first and last submissions of a series,0.24812008390343515
+wk12_time between first and last submissions of a series,-0.12401911918574224
+wk13_time between first and last submissions of a series,0.016214461257280825
+wk14_time between first and last submissions of a series,0.04212914696096046
+wk15_time between first and last submissions of a series,-0.2544057172071256
+wk16_time between first and last submissions of a series,-0.1144462541953023
+wk17_time between first and last submissions of a series,-0.11322019987369819
+wk18_time between first and last submissions of a series,-0.026804903492581692
+wk19_time between first and last submissions of a series,0.01067666281978107
+wk20_time between first and last submissions of a series,0.016794009632049856
+mean_time between first and last submissions of a series,0.0013888888179374801
+wk01_time between first submission and first correct submission,-0.005856596732985687
+wk02_time between first submission and first correct submission,-0.058976858259656074
+wk03_time between first submission and first correct submission,0.09182614494049593
+wk04_time between first submission and first correct submission,-0.1371722648969956
+wk05_time between first submission and first correct submission,0.18160957633238678
+wk06_time between first submission and first correct submission,-0.12869422653475812
+wk07_time between first submission and first correct submission,-0.030600996289721644
+wk08_time between first submission and first correct submission,0.1183412772515286
+wk09_time between first submission and first correct submission,0.13528064035795803
+wk10_time between first submission and first correct submission,-0.09299754790805292
+wk11_time between first submission and first correct submission,-0.10077190866149845
+wk12_time between first submission and first correct submission,0.012545555924974005
+wk13_time between first submission and first correct submission,0.2659692612470498
+wk14_time between first submission and first correct submission,-0.19403344701970857
+wk15_time between first submission and first correct submission,-0.016415933165820944
+wk16_time between first submission and first correct submission,0.042752568982829434
+wk17_time between first submission and first correct submission,0.08898098853595955
+wk18_time between first submission and first correct submission,-0.036339149027585546
+wk19_time between first submission and first correct submission,-0.12520226738049287
+wk20_time between first submission and first correct submission,0.017086722697056897
+mean_time between first submission and first correct submission,-0.001522886778194603
+wk01_nr of exercises in 2 hours,-0.017741986740776237
+wk02_nr of exercises in 2 hours,0.05360392794651682
+wk03_nr of exercises in 2 hours,-0.06510412701731114
+wk04_nr of exercises in 2 hours,-0.1741233082229906
+wk05_nr of exercises in 2 hours,0.23138047571780637
+wk06_nr of exercises in 2 hours,0.16744347088559847
+wk07_nr of exercises in 2 hours,0.01989711986332568
+wk08_nr of exercises in 2 hours,0.13524844067155456
+wk09_nr of exercises in 2 hours,0.1155517798213628
+wk10_nr of exercises in 2 hours,0.06760355811078658
+wk11_nr of exercises in 2 hours,0.03773844163891185
+wk12_nr of exercises in 2 hours,0.02285005187800608
+wk13_nr of exercises in 2 hours,0.05931758995701074
+wk14_nr of exercises in 2 hours,-0.05925030301628983
+wk15_nr of exercises in 2 hours,-0.003697077509463498
+wk16_nr of exercises in 2 hours,0.03287618221059425
+wk17_nr of exercises in 2 hours,-0.12490192373024472
+wk18_nr of exercises in 2 hours,-0.1447571039280576
+wk19_nr of exercises in 2 hours,-0.006676573695736961
+wk20_nr of exercises in 2 hours,-0.017628476489707962
+mean_nr of exercises in 2 hours,0.05059720390127379
+wk01_nr of exercises in 24 hours,-0.026126358877426387
+wk02_nr of exercises in 24 hours,-0.10092223238066644
+wk03_nr of exercises in 24 hours,-0.16312672805636508
+wk04_nr of exercises in 24 hours,0.13589745564130118
+wk05_nr of exercises in 24 hours,0.16087595099329616
+wk06_nr of exercises in 24 hours,0.15229786818893634
+wk07_nr of exercises in 24 hours,-0.027123561282136943
+wk08_nr of exercises in 24 hours,0.07386171504490606
+wk09_nr of exercises in 24 hours,-0.016810641037394353
+wk10_nr of exercises in 24 hours,-0.0811170935221955
+wk11_nr of exercises in 24 hours,-0.12419754398907325
+wk12_nr of exercises in 24 hours,-0.009844421472722065
+wk13_nr of exercises in 24 hours,0.06363377583927723
+wk14_nr of exercises in 24 hours,0.013695278990986133
+wk15_nr of exercises in 24 hours,0.02600857744274957
+wk16_nr of exercises in 24 hours,-0.10575776068012854
+wk17_nr of exercises in 24 hours,0.18176146212872152
+wk18_nr of exercises in 24 hours,0.05893951171514737
+wk19_nr of exercises in 24 hours,0.07734920788933108
+wk20_nr of exercises in 24 hours,-0.003496171432174593
+mean_nr of exercises in 24 hours,0.012230945724372902
+wk01_nr of exercises in 5  mins,0.01415794478594207
+wk02_nr of exercises in 5  mins,0.07008604111945765
+wk03_nr of exercises in 5  mins,-0.00941361305415639
+wk04_nr of exercises in 5  mins,-0.0038383440330242336
+wk05_nr of exercises in 5  mins,-0.26157835016690784
+wk06_nr of exercises in 5  mins,-0.13828392724555028
+wk07_nr of exercises in 5  mins,-0.07730067793859102
+wk08_nr of exercises in 5  mins,-0.15019546992704128
+wk09_nr of exercises in 5  mins,-0.25712656082065183
+wk10_nr of exercises in 5  mins,0.07513936130016223
+wk11_nr of exercises in 5  mins,-0.05363506935813715
+wk12_nr of exercises in 5  mins,-0.2950490710039037
+wk13_nr of exercises in 5  mins,-0.3063004856778424
+wk14_nr of exercises in 5  mins,0.20023702650005099
+wk15_nr of exercises in 5  mins,0.23018076317557218
+wk16_nr of exercises in 5  mins,-0.18347858366788347
+wk17_nr of exercises in 5  mins,-0.23148393262435665
+wk18_nr of exercises in 5  mins,-0.08638261291096261
+wk19_nr of exercises in 5  mins,0.03033899968080784
+wk20_nr of exercises in 5  mins,-0.04198752673481719
+mean_nr of exercises in 5  mins,-0.12848597728257197
+wk01_nr of exercises in 15 mins,0.0016095148523933656
+wk02_nr of exercises in 15 mins,0.01940428300747035
+wk03_nr of exercises in 15 mins,0.09496381932473977
+wk04_nr of exercises in 15 mins,0.1374620060318707
+wk05_nr of exercises in 15 mins,0.019007718034657933
+wk06_nr of exercises in 15 mins,0.22567646923145834
+wk07_nr of exercises in 15 mins,0.057496632656330135
+wk08_nr of exercises in 15 mins,-0.14953301664441293
+wk09_nr of exercises in 15 mins,0.36255528676798493
+wk10_nr of exercises in 15 mins,0.07694628421623945
+wk11_nr of exercises in 15 mins,0.16580717481341956
+wk12_nr of exercises in 15 mins,0.04087052758227135
+wk13_nr of exercises in 15 mins,0.1500190368547055
+wk14_nr of exercises in 15 mins,-0.12319417370454762
+wk15_nr of exercises in 15 mins,-0.056805297803828175
+wk16_nr of exercises in 15 mins,0.03139682218414234
+wk17_nr of exercises in 15 mins,0.11305725956520774
+wk18_nr of exercises in 15 mins,0.018767384272703524
+wk19_nr of exercises in 15 mins,-0.1111048786541049
+wk20_nr of exercises in 15 mins,-0.017628476489707962
+mean_nr of exercises in 15 mins,0.11222762621791672
+wk01_nr of submissions wrong,-0.20753396352781067
+wk02_nr of submissions wrong,0.11930408975426794
+wk03_nr of submissions wrong,0.21547183154783411
+wk04_nr of submissions wrong,0.05592723457387315
+wk05_nr of submissions wrong,0.0697768485913532
+wk06_nr of submissions wrong,-0.22969199313603855
+wk07_nr of submissions wrong,0.08057047525693985
+wk08_nr of submissions wrong,0.03794642930455882
+wk09_nr of submissions wrong,0.0124967155786941
+wk10_nr of submissions wrong,-0.0006840511998560198
+wk11_nr of submissions wrong,0.36609117647673445
+wk12_nr of submissions wrong,0.35789972397132064
+wk13_nr of submissions wrong,-0.020604746969957913
+wk14_nr of submissions wrong,-0.1796074947354865
+wk15_nr of submissions wrong,-0.0031007829764903767
+wk16_nr of submissions wrong,0.10078919155610774
+wk17_nr of submissions wrong,0.31553372428804577
+wk18_nr of submissions wrong,-0.056757168816207786
+wk19_nr of submissions wrong,0.0764936633461768
+wk20_nr of submissions wrong,0.017088915523530965
+mean_nr of submissions wrong,0.11608031169991427
+wk01_nr of submissions compilation error,0.06296854153385292
+wk02_nr of submissions compilation error,-0.07037171837916784
+wk03_nr of submissions compilation error,-0.24065126315641128
+wk04_nr of submissions compilation error,-0.0466564330539958
+wk05_nr of submissions compilation error,-0.10841726619165075
+wk06_nr of submissions compilation error,0.09448932138000439
+wk07_nr of submissions compilation error,-0.010362639177653262
+wk08_nr of submissions compilation error,-0.3122542608395727
+wk09_nr of submissions compilation error,-0.25572311083839033
+wk10_nr of submissions compilation error,-0.1019593725017423
+wk11_nr of submissions compilation error,-0.4112270421337851
+wk12_nr of submissions compilation error,-0.08083926240903301
+wk13_nr of submissions compilation error,-0.4713432777937088
+wk14_nr of submissions compilation error,0.17681420074036094
+wk15_nr of submissions compilation error,-0.17687513915159467
+wk16_nr of submissions compilation error,0.12885496612590996
+wk17_nr of submissions compilation error,-0.14315196029879373
+wk18_nr of submissions compilation error,0.11169708935979931
+wk19_nr of submissions compilation error,0.06394580208865815
+wk20_nr of submissions compilation error,0.017088915523530965
+mean_nr of submissions compilation error,-0.14661259534387772
+wk01_nr of submissions runtime error,-0.09980177821339939
+wk02_nr of submissions runtime error,0.23414609710396933
+wk03_nr of submissions runtime error,0.01883921403812933
+wk04_nr of submissions runtime error,-0.04983512516403714
+wk05_nr of submissions runtime error,-0.12383031295030149
+wk06_nr of submissions runtime error,0.007318940376032391
+wk07_nr of submissions runtime error,-0.035154961679221
+wk08_nr of submissions runtime error,0.04654959936614055
+wk09_nr of submissions runtime error,0.160987561685476
+wk10_nr of submissions runtime error,0.20108182686201362
+wk11_nr of submissions runtime error,0.009969261499729274
+wk12_nr of submissions runtime error,-0.06026991590964469
+wk13_nr of submissions runtime error,0.09913542253235656
+wk14_nr of submissions runtime error,-0.002337233324199871
+wk15_nr of submissions runtime error,0.009990908847406476
+wk16_nr of submissions runtime error,0.0342539309161767
+wk17_nr of submissions runtime error,-0.25968555060767096
+wk18_nr of submissions runtime error,0.14289668315126353
+wk19_nr of submissions runtime error,-0.19019432109101103
+wk20_nr of submissions runtime error,0.0029365952139742465
+mean_nr of submissions runtime error,0.019261789653344484
+eval1,0.207725158762858
